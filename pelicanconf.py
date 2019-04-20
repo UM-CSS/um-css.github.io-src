@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Jeff Lockhart'
 SITENAME = 'SOC 295: Computational Social Science'
 SITEURL = ''
-SITESUBTITLE = 'An introductory course for concepts and tools of CSS'
+SITESUBTITLE = 'SOC 295: Computational Social Science'
 SITELOGO = '/images/logo.png'
 
 PATH = 'content'
@@ -28,13 +28,13 @@ DISPLAY_PAGES_ON_MENU = True
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),)
 
-ICONS = (
-    ('github', 'https://github.com/UM-CSS'),
-)
+#ICONS = (
+#    ('github', 'https://github.com/UM-CSS'),
+#)
 
 # Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/UM-CSS'),
+	)
 
 DEFAULT_PAGINATION = False
 

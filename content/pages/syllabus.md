@@ -58,7 +58,7 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 		- Ko, Allen, Mou, Merry, and Matias, J. Nathan. 2016. “The Obligation To Experiment.” MIT Media Lab, Medium.  
 		- Bertrand, Marianne and Sendhil Mullainathan. 2004. “Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination.” American Economic Review 94(4):991–1013. 
 		- Salganik, M. J., Dodds, P. S., Watts, D. J. (2006). Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market. Science, 311(5762), 854–856. 
-Required for Grad class 
+	- Required for Grad class 
 		- Centola, D., Baronchelli, A. (2015). The spontaneous emergence of conventions: An experimental study of cultural evolution. Proceedings of the National Academy of Sciences, 112(7), 1989–1994. 
 		- E. Bakshy, S. Messing, L. A. Adamic (2015) "Exposure to ideologically diverse news and opinion on Facebook", Science
 	- Optional 

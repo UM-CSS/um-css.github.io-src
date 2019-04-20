@@ -5,7 +5,7 @@ Summary: About the course
 This course was created over the course of the 2017-18 and 2018-19 academic years as part of the University of Michigan Computational Social Science Initiative. 
 
 ## Contributors
-This course is the product of a four-way collaboration.
+This course is the product of a four-way collaboration among:
 
 - [Elizabeth Bruch](https://mhbsd.net) 
 - [Jeff Lockhart](https://jwlockhart.github.io/pages/about.html#about)
