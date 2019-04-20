@@ -1,0 +1,215 @@
+Title: Syllabus
+Slug: syllabus
+Summary: Course syllabus
+
+## Course Information
+
+TBA
+
+## Course Schedule
+
+### Week 1: Introduction to CSS
+- Readings
+	- Required 
+		- Lazer, D., Pentland, A. S., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., ... & Jebara, T. (2009). Life in the network: the coming age of computational social science. Science (New York, NY), 323(5915), 721. 
+		- Ng, Fiona. 2016. “Tinder Has an In-House Sociologist and Her Job Is to Figure Out What You Want.” Los Angeles Magazine, May 25.
+- Lab: Intro and Installation: Python, Jupyter Notebooks
+	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
+	- Notebook: `0_Intro_to_python_text.ipynb`
+
+### Week 2: Text as Data: CSS and social research, NLP intro
+- Readings
+	- Required 
+		- Coupland, J. (2000). Past the ‘perfect kind of age’? Styling selves and relationships in over‐50s dating advertisements. Journal of Communication, 50(3), 9-30. 
+		- Bail, C. (2014). The cultural environment: measuring culture with big data. Theory and Society, 43(3-4), 465–482.
+	- Required for graduate students 
+		- Evans, James A. and Pedro Aceves (2016). Machine Translation: Mining Text for Social Theory.” Annual Review of Sociology. 
+	- Optional 
+		- Grimmer and Stewart. Text as Data: The Promises and Pitfalls of Automated Content Analysis. 
+		- Bo et al. Thumbs up: Sentiment Classification using Machine Learning Techniques.
+Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poetics 22:291-312. 
+		- Miner, Horace. 1956. “Body Ritual Among the Nacirema” American Anthropologist 58(3): 503-507.  
+		- Lynn, M., & Bolig, R. (1985). Personal advertisements: Sources of data about relationships. Journal of Social and Personal Relationships, 2(3), 377-383. 
+- Lab: Word Frequencies
+	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
+	- Notebook: `2_Word_frequencies.ipynb`
+
+### Week 3: Text as Data: Sociology of (Online) Dating, NLP Methods
+- Readings
+	- Required 
+		- Pepin, Joanna. 2015. “Online Dating Choices, Constrained.” Contexts 14(4):7. (one page) 
+		- . 2009. "Exactly what to say in a first message." OKCupid Data Blog, September 13. 
+		- . 2010. "The REAL 'stuff white people like'." OKCupid Data Blog, September 7. 
+		- DiMaggio, Paul, Manish Nag, and David Blei. 2013. “Exploiting Affinities between Topic Modeling and the Sociological Perspective on Culture: Application to Newspaper Coverage of U.S. Government Arts Funding.” Poetics 41(6):570–606.
+	- Required for Grad class 
+		- Smith, David A., Ryan Cordell, and Elizabeth Maddock Dillon. 2013. “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers.” Pp. 86–94 in 2013 IEEE International Conference on Big Data. Silicon Valley, CA, USA: IEEE. 
+		- Alix Rule, Jean-Philippe Cointet, and Peter S. Bearman. 2015. Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014 Proceedings of the National Academy of Sciences Vol 112 (35) 10837-10844
+	- Optional 
+		- Mason, Corinne Lysandra. 2016. “Tinder and Humanitarian Hook-Ups: The Erotics of Social Media Racism.” Feminist Media Studies 16(5):822–37. 
+		- Sumter, Sindy R., Laura Vandenbosch, and Loes Ligtenberg. 2017. “Love Me Tinder: Untangling Emerging Adults’ Motivations for Using the Dating Application Tinder.” Telematics and Informatics 34(1):67–78. 
+		- Ng, Fiona. 2016. “Tinder Has an In-House Sociologist and Her Job Is to Figure Out What You Want.” Los Angeles Magazine, May 25.
+- Lab: Topic Modeling
+	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
+	- Notebook: `3_Topic_modeling.ipynb`
+
+### Week 4: Online Experiments and Music Lab
+- Readings
+	- Required 
+		- Ko, Allen, Mou, Merry, and Matias, J. Nathan. 2016. “The Obligation To Experiment.” MIT Media Lab, Medium.  
+		- Bertrand, Marianne and Sendhil Mullainathan. 2004. “Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination.” American Economic Review 94(4):991–1013. 
+		- Salganik, M. J., Dodds, P. S., Watts, D. J. (2006). Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market. Science, 311(5762), 854–856. 
+Required for Grad class 
+		- Centola, D., Baronchelli, A. (2015). The spontaneous emergence of conventions: An experimental study of cultural evolution. Proceedings of the National Academy of Sciences, 112(7), 1989–1994. 
+		- E. Bakshy, S. Messing, L. A. Adamic (2015) "Exposure to ideologically diverse news and opinion on Facebook", Science
+	- Optional 
+		- Salganik, M.J., and Watts, D.J. (2008). Leading the herd astray: Experimental study of self-fulfilling prophecies in an artificial cultural market. Social Psychology Quarterly, 71:338-355.  
+		- Salganik, M.J. and Watts, D.J. (2009) Web-based Experiments for the Study of Collective Social Dynamics in Cultural Markets. Topics in Cognitive Science, 1(3):439{468, 2009. 
+		- Bail, Christopher A., Lisa Argyle, Taylor Brown, John Bumpus, Haohan Chen, M. B. Fallin Hunzaker, Jaemin Lee, Marcus Mann, Friedolin Merhout, and Alexander Volfovsky. 2018. “Exposure to Opposing Views Can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media.” SocArXiv.
+- Lab: Music Lab
+
+### Week 5: Communities and Norms
+- Readings
+	- Required 
+		- Voigt, Rob, Nicholas P. Camp, Vinodkumar Prabhakaran, William L. Hamilton, Rebecca C. Hetey, Camilla M. Griffiths, David Jurgens, Dan Jurafsky, and Jennifer L. Eberhardt. 2017. “Language from Police Body Camera Footage Shows Racial Disparities in Officer Respect.” Proceedings of the National Academy of Sciences 114(25):6521–26.  
+		- Danescu-Niculescu-Mizil, Cristian, Robert West, Dan Jurafsky, Jure Leskovec, and Christopher Potts. 2013. “No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities.” Pp. 307–18 in Proceedings of the 22nd international conference on World Wide Web. ACM. 
+	- Required for Grad class 
+		- Collins, Randall. 1981. “On the Microfoundations of Macrosociology.” American Journal of Sociology 86(5):984-1014.  
+		- Hochschild, Arlie Russel. 1979. “Emotion Work, Feeling Rules and Social Structure.” The American Journal of Sociology 85(3):551-575. 
+	- Optional 
+		- Postmes, T. 2000. “The Formation of Group Norms in Computer-Mediated Communication.” Human Communication Research 26(3):341–71. 
+		- Palmer, Alexis, Melissa Robinson, and Kristy Philips. 2017. “Illegal Is Not a Noun: Linguistic Form for Detection of Pejorative Nominalizations.” Pp. 91–100 in Proceedings of the First Workshop on Abusive Language Online. Vancouver. 
+		- Danescu-Niculescu-Mizil, Cristian, et al. 2013. "A computational approach to politeness with application to social factors." Proceedings of ACL. 
+		- Shaw, A., & Hill, B. M. (2014). Laboratories of oligarchy? How the iron law extends to peer production. Journal of Communication, 64(2), 215-238. 
+		- Golder, S. A. and M. W. Macy. 2011. “Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures.” Science 333(6051):1878–81.
+- Lab: Reddit notebook 0
+
+### Week 6: Communities in Flux 
+- Readings
+	- Required 
+		- Chandrasekharan, Eshwar, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. 2017. “You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech.” Proceedings of the ACM on Human-Computer Interaction 1(CSCW):1–22. 
+		- Hern, Alex. 2014. "Reddit women protest at new front-page position." The Guardian, 13 May.
+	- Required for Grad class 
+		- Massanari, Adrienne. 2017. “#Gamergate and The Fappening: How Reddit’s Algorithm, Governance, and Culture Support Toxic Technocultures.” New Media & Society 19(3):329–46.
+	- Optional 
+		- Franco, V., Piirto, R., Hu, H. Y., Lewenstein, B. V., Underwood, R., & Vidal, N. K. (1995). Anatomy of a flame: conflict and community building on the Internet. IEEE Technology and Society Magazine, 14(2), 12-21. 
+		- Gonzalez-Bailon, S., Kaltenbrunner, A., & Banchs, R. E. (2010). The structure of political discussion networks: a model for the analysis of online deliberation. Journal of Information Technology, 25(2), 230-243. 
+		- Müller, Karsten and Carlo Schwarz. 2018. Fanning the Flames of Hate: Social Media and Hate Crime. SSRN Scholarly Paper. ID 3082972. Rochester, NY: Social Science Research Network. 
+		- Mantilla, Karla. 2013. “Gendertrolling: Misogyny Adapts to New Media.” Feminist Studies 39(2):563–70. 
+		- Panek, Elliot, Connor Hollenbach, Jinjie Yang, and Tyler Rhodes. 2017. “Growth and Inequality of Participation in Online Communities: A Longitudinal Analysis.” Pp. 51:1–51:5 in Proceedings of the 8th International Conference on Social Media & Society, #SMSociety17. New York, NY, USA: ACM.
+- Lab: Reddit notebooks 1 & 2
+
+### Week 7: From Data to Conclusions: Validity and Generalizability
+- Readings
+	- Required 
+		- Crawford, Kate. 2013. “[The Hidden Biases in Big Data](https://hbr.org/2013/04/the-hidden-biases-in-big-data).” Harvard Business Review, April 1.  
+		- Stephens, Alexis. 2014. “[Big Data Has Potential to Both Hurt and Help Disadvantaged Communities](https://nextcity.org/daily/entry/big-data-good-bad-help-disadvantaged-communities).” Next City. Retrieved September 29, 2018. 
+		- Bower, Bruce. 2018. “[‘Replication crisis’ spurs reforms in how science studies are done](https://www.sciencenews.org/blog/science-public/replication-crisis-psychology-science-studies-statistics).”  
+		- , D. M., Kennedy, R., King, G., & Vespignani, A. (2014). The parable of Google Flu: Traps in big data analysis. Science 343(6176):1203-1205
+	- Required for Grad class 
+		- Goel, S. and Salganik, M.J. (2010) Assessing respondent-driven sampling. PNAS. 
+		- Tyler J. VanderWeele and Whitney R. Robinson. 2014. On causal interpretation of race in regressions adjusting for confounding and mediating variables
+	- Optional 
+		- Brayne, Sarah. 2017. “Big Data Surveillance: The Case of Policing.” American Sociological Review 82(5):977–1008. 
+		- 2015. “[Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations).” Harvard Business Review. 
+		- Lisa Gitelman. 2013. Raw Data is an Oxymoron
+- Lab: Student data
+
+### Week 8: Midterm
+- Lab: Analysis of Comic Lab results
+
+### Week 9: Algorithms and Society
+- Readings
+	- Required 
+		- Tufekci, Zeynep. 2018. “[Facebook’s Surveillance Machine](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html) .” New York Times. 
+		- Eubanks, Virginia. 2018. “A Child Abuse Prediction Model Fails Poor Families.” Excerpt from Automating Inequality. Wired. 
+		- Sweeney, L. (2000). Simple Demographics Often Identify People Uniquely. Carnegie Mellon University Data Privacy Working Paper 3. Pittsburgh 2000.  
+		- Mattson, Greggor. 2017. “[Dating Profiles Are Like Gay Bars: Peer Review, Ethics and LGBTQ Big Data](https://greggormattson.com/2017/09/13/peer-review-ethics-and-lgbtq-big-data/).” Retrieved July 7, 2018.
+	- Required for Grad class 
+		- Gelman, Andrew, Greggor Mattson, and Daniel Simpson. 2018. “Gaydar and the Fallacy of Decontextualized Measurement.” Sociological Science 5:270–80. 
+		- Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ashesh Rambachan. 2018. “Algorithmic Fairness.” AEA Papers and Proceedings 108:22–27. 
+		- Speer, Rob. 2017. How to make a racist AI without really trying.
+	- Optional 
+		- Kleinberg, Jon and Sendhil Mullainathan. 2018. “Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability.” ArXiv:1809.04578 [Cs, Stat]. 
+		- Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on Fairness, Accountability and Transparency (pp. 77-91). 
+		- Zimmer, Michael. 2016. "OKCupid Study Reveals the Perils of Big-Data Science." Wired May 14. 
+		- , Steve. 2018. “Facial Recognition Is Accurate, If You’re a White Guy.” New York Times, February 9. 
+		- , Julia, Jeff Larsen, Surya Mattu, and Lauren Kirchner. 2016. Machine Bias. text/html. ProPublica. 
+		- Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246.
+- Lab: potholes
+
+### Week 10: Networks
+- Readings
+	- Required 
+		- Watts, Duncan. 1999. Small Worlds. Chapter 1. Princeton University Press: 3-8.  
+		- Healy, K. (2013). "Using Metadata to Find Paul Revere." Blog post, kieranhealy.org. 
+		- Austin, D. (2006). "How Google Finds Your Needle in the Web's Haystack." American Mathematical Society Feature Column.
+	- Required for Grad class 
+		- Breiger, R. L. (1974). The duality of persons and groups. Social forces, 53(2), 181-190.
+- Lab: Networks notebooks 1 & 2
+
+### Week 11: Using Networks for Social Science
+- Readings
+	- Required 
+		- Granovetter, Mark S. 1973. “The Strength of Weak Ties.” American Journal of Sociology 78(6): 1360-1380.  
+		- S. Milgram (1967) “The small world problem,” Psychology Today. 
+		- Watts, D. (2016). "How small is the world, really?" Blog post, medium.com. 
+		- Eckert, P. (1989). "The corporate structure of the school." In Jocks and Burnouts. Teacher's College Press.
+	- Required for Grad class 
+		- C. Shalizi, A. Thomas (2011) "Homophily and contagion are generically confounded in observational social network studies", Sociological methods & research. 
+		- Rapoport, A., & Horvath, W. J. (1961). "A study of a large sociogram". Systems Research and Behavioral Science, 6(4).
+	- Optional 
+		- Merten, D. E. (1997). "The meaning of meanness: Popularity, competition, and conflict among junior high school girls." Sociology of Education. 
+		- L. Michell, & A. Amos, (1997). "Girls, pecking order and smoking." Social Science & Medicine 44(12). 
+		- Coleman, James S. 1988. “Social Capital in the Creation of Human Capital.” The American Journal of Sociology 94, Supplement: Organizations and Institutions: Sociological and Economic Approaches to the Analysis of Social Structure: S95- S120. 
+- Lab: Network notebook 3
+
+### Week 12: Social Dynamics: Feedback in Social Environments
+- Readings
+	- Required 
+		- Hart, Vi, and Case, Nicky. 2014. “[The Parable of the Polygons](https://ncase.me/polygons/).” 
+		- Granovetter, Mark. 1978. “Threshold Models of Collective Behavior.” American Journal of Sociology 83(6):1420–43. 
+		- Bruch, Elizabeth and Jon Atwell. 2015. “Agent-Based Models in Empirical Social Research.” Sociological Methods & Research 44(2):186–221.
+	- Required for Grad class 
+		- Axelrod, R. (1986). An evolutionary approach to norms. American political science review, 80(4), 1095-1111. 
+		- Robert, Lionel and Daniel M. Romero. 2015. “Crowd Size, Diversity and Performance.” Pp. 1379–1382 in Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, CHI ’15. New York, NY, USA: ACM. 
+		- Schelling, Thomas C. 1969. “Models of Segregation.” American Economic Review 59(2):488–93.
+	- Optional 
+		- Axelrod, R. (1987). The evolution of strategies in the iterated prisoner’s dilemma. The dynamics of norms, 1-16. 
+		- Epstein, J. M. 2002. “Modeling Civil Violence: An Agent-Based Computational Approach.” Proceedings of the National Academy of Sciences 99:7243–50.
+- Lab: ABM
+
+### Week 13: Social Dynamics: Behavior in Social Networks
+- Readings
+	- Required 
+		- 2015. “[The Social Network Illusion that Tricks Your Mind](https://www.technologyreview.com/s/538866/the-social-network-illusion-that-tricks-your-mind/).” MIT Technology Review. 
+		- Garber, Megan. 2011. “[The contribution conundrum: Why did Wikipedia succeed while other encyclopedias failed?](http://www.niemanlab.org/2011/10/the-contribution-conundrum-why-did-wikipedia-succeed-while-other-encyclopedias-failed/)” Nieman Labs.  
+		- Centola, Damon and Michael Macy. 2007. “Complex Contagions and the Weakness of Long Ties.” American Journal of Sociology 113(3):702–34. 
+		- State, Bogdan and Lada Adamic. 2015. “The Diffusion of Support in an Online Social Movement: Evidence from the Adoption of Equal-Sign Profile Pictures.” Pp. 1741–1750 in Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing, CSCW ’15. New York, NY, USA: ACM.
+	- Required for Grad class 
+		- Axelrod, Robert and D. Scott Bennett “A Landscape Theory of Aggregation”, British Journal of Political Science, Vol. 23:2: 211-233 (1993). 
+		- Romero, Daniel M., Brendan Meeder, and Jon Kleinberg. 2011. “Differences in the Mechanics of Information Diffusion Across Topics: Idioms, Political Hashtags, and Complex Contagion on Twitter.” Pp. 695–704 in Proceedings of the 20th International Conference on World Wide Web, WWW ’11. New York, NY, USA: ACM.
+	- Optional 
+		- Nickerson, D.W. (2008). Is voting contagious? Evidence from two field experiments. American Political Science Review, 102(1):49-57.  
+		- , Brian and Casey Fiesler. 2017. “The Evolution and Consequences of Peer Producing Wikipedia’s Rules.” 
+		- Taylor, S. J., & Eckles, D. (2018). Randomized experiments to detect and estimate social influence in networks. In Complex Spreading Phenomena in Social Systems (pp. 289-322). Springer, Cham. 
+		- , S., Anderson, A., Hofman, J., & Watts, D. J. (2015). The structural virality of online diffusion. Management Science, 62(1), 180-196. 
+		- , A., & Woodard, R. (2013). Estimating the historical and future probabilities of large terrorist events. The Annals of Applied Statistics, 7(4), 1838-1865.
+- Lab: #MeToo
+
+### Week 14: The Cutting Edge
+- Readings
+	- Required 
+		- Jean, Neal, Marshall Burke, Michael Xie, W. Matthew Davis, David B. Lobell, and Stefano Ermon. 2016. “Combining Satellite Imagery and Machine Learning to Predict Poverty.” Science 353(6301):790–94. 
+		- Schneider, Todd. 2015. “[Analyzing 1.1 Billion NYC Taxi and Uber Trips, with a Vengeance](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance).” Toddwschneider.Com. Nov 17th. Retrieved September 29, 2018.
+	 - Required for Grad class 
+		- Tuite, Kathleen, Noah Snavely, Dun-yu Hsiao, Nadine Tabing, and Zoran Popovic. 2011. “PhotoCity: Training Experts at Large-Scale Image Acquisition Through a Competitive Game.” Pp. 1383–1392 in Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI ’11. New York, NY, USA: ACM.
+	- Optional 
+		- Casas and Webb Williams. Images as Data: Computer Vision for Social Science Research
+- Lab: Taxi data
+
+
+
+### Week 15: Review
+
+
+
