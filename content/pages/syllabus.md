@@ -12,7 +12,7 @@ TBA
 - Readings
 	- Required 
 		- Lazer, D., Pentland, A. S., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., ... & Jebara, T. (2009). Life in the network: the coming age of computational social science. Science (New York, NY), 323(5915), 721. 
-		- Ng, Fiona. 2016. “Tinder Has an In-House Sociologist and Her Job Is to Figure Out What You Want.” Los Angeles Magazine, May 25.
+		- Ng, Fiona. 2016. “[Tinder Has an In-House Sociologist and Her Job Is to Figure Out What You Want](http://www.lamag.com/longform/tinder-sociologist).” Los Angeles Magazine, May 25.
 - Lab: Intro and Installation: Python, Jupyter Notebooks
 	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
 	- Notebook: `0_Intro_to_python_text.ipynb`
@@ -38,16 +38,15 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 - Readings
 	- Required 
 		- Pepin, Joanna. 2015. “Online Dating Choices, Constrained.” Contexts 14(4):7. (one page) 
-		- . 2009. "Exactly what to say in a first message." OKCupid Data Blog, September 13. 
-		- . 2010. "The REAL 'stuff white people like'." OKCupid Data Blog, September 7. 
+		- . 2009. "[Exactly what to say in a first message](https://theblog.okcupid.com/exactly-what-to-say-in-a-first-message-2bf680806c72?gi=75cc0350017e)." OKCupid Data Blog, September 13. 
+		- . 2010. "[The REAL 'stuff white people like'](https://web.archive.org/web/20170218084753/https://theblog.okcupid.com/the-real-stuff-white-people-like-66b131aa3ac8)." OKCupid Data Blog, September 7. 
 		- DiMaggio, Paul, Manish Nag, and David Blei. 2013. “Exploiting Affinities between Topic Modeling and the Sociological Perspective on Culture: Application to Newspaper Coverage of U.S. Government Arts Funding.” Poetics 41(6):570–606.
 	- Required for Grad class 
 		- Smith, David A., Ryan Cordell, and Elizabeth Maddock Dillon. 2013. “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers.” Pp. 86–94 in 2013 IEEE International Conference on Big Data. Silicon Valley, CA, USA: IEEE. 
 		- Alix Rule, Jean-Philippe Cointet, and Peter S. Bearman. 2015. Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014 Proceedings of the National Academy of Sciences Vol 112 (35) 10837-10844
 	- Optional 
-		- Mason, Corinne Lysandra. 2016. “Tinder and Humanitarian Hook-Ups: The Erotics of Social Media Racism.” Feminist Media Studies 16(5):822–37. 
-		- Sumter, Sindy R., Laura Vandenbosch, and Loes Ligtenberg. 2017. “Love Me Tinder: Untangling Emerging Adults’ Motivations for Using the Dating Application Tinder.” Telematics and Informatics 34(1):67–78. 
-		- Ng, Fiona. 2016. “Tinder Has an In-House Sociologist and Her Job Is to Figure Out What You Want.” Los Angeles Magazine, May 25.
+		- Mason, Corinne Lysandra. 2016. “[Tinder and Humanitarian Hook-Ups: The Erotics of Social Media Racism](https://www.tandfonline.com/doi/abs/10.1080/14680777.2015.1137339?journalCode=rfms20).” Feminist Media Studies 16(5):822–37. 
+		- Sumter, Sindy R., Laura Vandenbosch, and Loes Ligtenberg. 2017. “[Love Me Tinder: Untangling Emerging Adults’ Motivations for Using the Dating Application Tinder](https://www.sciencedirect.com/science/article/abs/pii/S0736585316301216).” Telematics and Informatics 34(1):67–78.
 - Lab: Topic Modeling
 	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
 	- Notebook: `3_Topic_modeling.ipynb`
@@ -71,14 +70,14 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 - Readings
 	- Required 
 		- Voigt, Rob, Nicholas P. Camp, Vinodkumar Prabhakaran, William L. Hamilton, Rebecca C. Hetey, Camilla M. Griffiths, David Jurgens, Dan Jurafsky, and Jennifer L. Eberhardt. 2017. “Language from Police Body Camera Footage Shows Racial Disparities in Officer Respect.” Proceedings of the National Academy of Sciences 114(25):6521–26.  
-		- Danescu-Niculescu-Mizil, Cristian, Robert West, Dan Jurafsky, Jure Leskovec, and Christopher Potts. 2013. “No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities.” Pp. 307–18 in Proceedings of the 22nd international conference on World Wide Web. ACM. 
+		- Danescu-Niculescu-Mizil, Cristian, Robert West, Dan Jurafsky, Jure Leskovec, and Christopher Potts. 2013. “[No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities](https://nlp.stanford.edu/pubs/linguistic_change_lifecycle.pdf).” Pp. 307–18 in Proceedings of the 22nd international conference on World Wide Web. ACM. 
 	- Required for Grad class 
 		- Collins, Randall. 1981. “On the Microfoundations of Macrosociology.” American Journal of Sociology 86(5):984-1014.  
 		- Hochschild, Arlie Russel. 1979. “Emotion Work, Feeling Rules and Social Structure.” The American Journal of Sociology 85(3):551-575. 
 	- Optional 
 		- Postmes, T. 2000. “The Formation of Group Norms in Computer-Mediated Communication.” Human Communication Research 26(3):341–71. 
-		- Palmer, Alexis, Melissa Robinson, and Kristy Philips. 2017. “Illegal Is Not a Noun: Linguistic Form for Detection of Pejorative Nominalizations.” Pp. 91–100 in Proceedings of the First Workshop on Abusive Language Online. Vancouver. 
-		- Danescu-Niculescu-Mizil, Cristian, et al. 2013. "A computational approach to politeness with application to social factors." Proceedings of ACL. 
+		- Palmer, Alexis, Melissa Robinson, and Kristy Philips. 2017. “[Illegal Is Not a Noun: Linguistic Form for Detection of Pejorative Nominalizations](https://www.aclweb.org/anthology/W17-3014).” Pp. 91–100 in Proceedings of the First Workshop on Abusive Language Online. Vancouver. 
+		- Danescu-Niculescu-Mizil, Cristian, et al. 2013. "[A computational approach to politeness with application to social factors](https://www.cs.cornell.edu/~cristian/Politeness.html)." Proceedings of ACL. 
 		- Shaw, A., & Hill, B. M. (2014). Laboratories of oligarchy? How the iron law extends to peer production. Journal of Communication, 64(2), 215-238. 
 		- Golder, S. A. and M. W. Macy. 2011. “Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures.” Science 333(6051):1878–81.
 - Lab: Reddit notebook 0
@@ -87,7 +86,7 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 - Readings
 	- Required 
 		- Chandrasekharan, Eshwar, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. 2017. “You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech.” Proceedings of the ACM on Human-Computer Interaction 1(CSCW):1–22. 
-		- Hern, Alex. 2014. "Reddit women protest at new front-page position." The Guardian, 13 May.
+		- Hern, Alex. 2014. "[Reddit women protest at new front-page position](https://www.theguardian.com/technology/2014/may/13/reddit-women-protest-front-page-subforum-subreddit-position)." The Guardian, 13 May.
 	- Required for Grad class 
 		- Massanari, Adrienne. 2017. “#Gamergate and The Fappening: How Reddit’s Algorithm, Governance, and Culture Support Toxic Technocultures.” New Media & Society 19(3):329–46.
 	- Optional 
@@ -107,11 +106,11 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 		- , D. M., Kennedy, R., King, G., & Vespignani, A. (2014). The parable of Google Flu: Traps in big data analysis. Science 343(6176):1203-1205
 	- Required for Grad class 
 		- Goel, S. and Salganik, M.J. (2010) Assessing respondent-driven sampling. PNAS. 
-		- Tyler J. VanderWeele and Whitney R. Robinson. 2014. On causal interpretation of race in regressions adjusting for confounding and mediating variables
+		- Tyler J. VanderWeele and Whitney R. Robinson. 2014. "[On causal interpretation of race in regressions adjusting for confounding and mediating variables](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4125322/)."
 	- Optional 
 		- Brayne, Sarah. 2017. “Big Data Surveillance: The Case of Policing.” American Sociological Review 82(5):977–1008. 
 		- 2015. “[Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations).” Harvard Business Review. 
-		- Lisa Gitelman. 2013. Raw Data is an Oxymoron
+		- Lisa Gitelman. 2013. [Raw Data is an Oxymoron](https://mitpress.mit.edu/books/raw-data-oxymoron)
 - Lab: Student data
 
 ### Week 8: Midterm
@@ -121,18 +120,18 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 - Readings
 	- Required 
 		- Tufekci, Zeynep. 2018. “[Facebook’s Surveillance Machine](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html) .” New York Times. 
-		- Eubanks, Virginia. 2018. “A Child Abuse Prediction Model Fails Poor Families.” Excerpt from Automating Inequality. Wired. 
+		- Eubanks, Virginia. 2018. “[A Child Abuse Prediction Model Fails Poor Families](https://www.wired.com/story/excerpt-from-automating-inequality/).” Excerpt from Automating Inequality. Wired. 
 		- Sweeney, L. (2000). Simple Demographics Often Identify People Uniquely. Carnegie Mellon University Data Privacy Working Paper 3. Pittsburgh 2000.  
 		- Mattson, Greggor. 2017. “[Dating Profiles Are Like Gay Bars: Peer Review, Ethics and LGBTQ Big Data](https://greggormattson.com/2017/09/13/peer-review-ethics-and-lgbtq-big-data/).” Retrieved July 7, 2018.
 	- Required for Grad class 
 		- Gelman, Andrew, Greggor Mattson, and Daniel Simpson. 2018. “Gaydar and the Fallacy of Decontextualized Measurement.” Sociological Science 5:270–80. 
 		- Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ashesh Rambachan. 2018. “Algorithmic Fairness.” AEA Papers and Proceedings 108:22–27. 
-		- Speer, Rob. 2017. How to make a racist AI without really trying.
+		- Speer, Rob. 2017. "[How to make a racist AI without really trying](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/)."
 	- Optional 
 		- Kleinberg, Jon and Sendhil Mullainathan. 2018. “Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability.” ArXiv:1809.04578 [Cs, Stat]. 
 		- Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on Fairness, Accountability and Transparency (pp. 77-91). 
-		- Zimmer, Michael. 2016. "OKCupid Study Reveals the Perils of Big-Data Science." Wired May 14. 
-		- , Steve. 2018. “Facial Recognition Is Accurate, If You’re a White Guy.” New York Times, February 9. 
+		- Zimmer, Michael. 2016. "[OKCupid Study Reveals the Perils of Big-Data Science](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)." Wired May 14. 
+		- , Steve. 2018. “[Facial Recognition Is Accurate, If You’re a White Guy](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html).” New York Times, February 9. 
 		- , Julia, Jeff Larsen, Surya Mattu, and Lauren Kirchner. 2016. Machine Bias. text/html. ProPublica. 
 		- Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246.
 - Lab: potholes
