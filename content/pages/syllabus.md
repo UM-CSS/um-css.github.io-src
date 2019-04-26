@@ -13,6 +13,10 @@ This online syllabus has links to the readings that are online. Where possible, 
 ## Course Schedule
 
 ### Week 1: Introduction to CSS
+- Topics:
+	- Technical setup for the course
+	- Overview of course 
+	- Introduction to python
 - Lab: Intro and Installation: Python, Jupyter Notebooks
 	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
 	- Notebook: `0_Intro_to_python_text.ipynb`
@@ -22,6 +26,10 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Ng, Fiona. 2016. “[Tinder Has an In-House Sociologist and Her Job Is to Figure Out What You Want](http://www.lamag.com/longform/tinder-sociologist).” Los Angeles Magazine, May 25.
 
 ### Week 2: Text as Data: CSS and social research, NLP intro
+- Topics:
+	- Place of text analysis in social research
+	- Thinking about text as data
+	- Gender and social categories in dating
 - Lab: Word Frequencies
 	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
 	- Notebook: `2_Word_frequencies.ipynb`
@@ -39,6 +47,9 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Lynn, M., & Bolig, R. (1985). [Personal advertisements: Sources of data about relationships](https://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1330&context=articles). Journal of Social and Personal Relationships, 2(3), 377-383. 
 
 ### Week 3: Text as Data: Sociology of (Online) Dating, NLP Methods
+- Topics: 
+	- Sociology of (online) dating
+	- Topic modeling and other advanced text analysis methods
 - Lab: Topic Modeling
 	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
 	- Notebook: `3_Topic_modeling.ipynb`
@@ -56,9 +67,11 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Sumter, Sindy R., Laura Vandenbosch, and Loes Ligtenberg. 2017. “[Love Me Tinder: Untangling Emerging Adults’ Motivations for Using the Dating Application Tinder](https://www.sciencedirect.com/science/article/abs/pii/S0736585316301216).” Telematics and Informatics 34(1):67–78.
 
 ### Week 4: Online Experiments and Music Lab
-- Lab: Community Dynamics
-	- Repository: [https://github.com/UM-CSS/CSSLabs-Community-Dynamics](https://github.com/UM-CSS/CSSLabs-Community-Dynamics)
-	- Notebook: `0_Intro_Reddit_Data.ipynb`
+- Topics: 
+	- .
+- Lab: Experiments
+	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
+	- Notebook: ``
 - Readings
 	- Required 
 		- Ko, Allen, Mou, Merry, and Matias, J. Nathan. 2016. “[The Obligation To Experiment](https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9).” MIT Media Lab, Medium.  
@@ -73,6 +86,10 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Bail, Christopher A., Lisa Argyle, Taylor Brown, John Bumpus, Haohan Chen, M. B. Fallin Hunzaker, Jaemin Lee, Marcus Mann, Friedolin Merhout, and Alexander Volfovsky. 2018. “[Exposure to Opposing Views Can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media](https://osf.io/preprints/socarxiv/4ygux/).” Proceedings of the National Academy of Sciences.
 
 ### Week 5: Communities and Norms
+- Topics:
+	- What are communities? Understanding norms, influence, collective feeling
+	- Online vs offline communities, effects of platform and envrionment
+	- Measurement of social norms and interaction style online
 - Lab: Community Dynamics
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Community-Dynamics](https://github.com/UM-CSS/CSSLabs-Community-Dynamics)
 	- Notebooks: `0_Intro_Reddit_Data.ipynb`
@@ -91,6 +108,10 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Golder, S. A. and M. W. Macy. 2011. “[Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures](http://science.sciencemag.org/content/sci/333/6051/1878.full.pdf?casa_token=i0C07afKjNIAAAAA:MvQb-Ovblnl7BOQgly8zf8rTOwnlmVzf5t-XlPSTNbryV8DGexjTIsIO9J8YexiVGMhakIXkSxjKWMY).” Science 333(6051):1878–81.
 
 ### Week 6: Communities in Flux 
+- Topics:
+	- Civility and harassment online, group identity, prejudice, and anonymity
+	- Reddit's Default Day as a natural experiment / exogenous shock
+	- Heterogenous treatment effects: not everyone responds the same way
 - Lab: Community Dynamics
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Community-Dynamics](https://github.com/UM-CSS/CSSLabs-Community-Dynamics)
 	- Notebooks: `1_Evolution_of_Community_Norms.ipynb` and `2_Other_shocks_to_communities.ipynb`
@@ -126,11 +147,17 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Lisa Gitelman. 2013. [Raw Data is an Oxymoron](https://mitpress.mit.edu/books/raw-data-oxymoron)
 
 ### Week 8: Midterm
+- Topics:
+	- Review and exam
+	- See results of class experiment in lab sections
 - Lab: Experiments
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
 	- Notebook: ``
 
 ### Week 9: Algorithms and Society
+- Topics: 
+	- Privacy and ethical concerns
+	- Real world effects and unintended concequences of algorithmic systems
 - Lab: Algorithms and Society
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Algorithms-Society](https://github.com/UM-CSS/CSSLabs-Algorithms-Society)
 	- Notebook: `0_potholes.ipynb`
@@ -185,6 +212,9 @@ This online syllabus has links to the readings that are online. Where possible, 
 
 
 ### Week 12: Social Dynamics: Feedback in Social Environments
+- Topics:
+	- Tipping and cascades
+	- Simulating social processes and Agent Based Modeling
 - Lab: 
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Contagion](https://github.com/UM-CSS/CSSLabs-Contagion)
 	- Notebook: `0_ABM.ipynb`
@@ -202,6 +232,9 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Epstein, J. M. 2002. “Modeling Civil Violence: An Agent-Based Computational Approach.” Proceedings of the National Academy of Sciences 99:7243–50.
 
 ### Week 13: Social Dynamics: Behavior in Social Networks
+- Topics:
+	- Social influence and contagion
+	- Collective action and online social movements
 - Lab: 
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Contagion](https://github.com/UM-CSS/CSSLabs-Contagion)
 	- Notebook: `1_metoo.ipynb`
