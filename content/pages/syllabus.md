@@ -7,6 +7,9 @@ Summary: Course syllabus
 
 Due to the growth in electronic sources such as cell phones, Facebook Twitter, and other online platforms, researches now have enormous amounts of data about every aspect of our lives – from what we buy, to where we go, to who we know, to what we believe. This has led to a revolution in social science, as we are able to measure human behavior with precision largely thought impossible just a decade ago. Computational Social Science is an exciting and emerging field that sits at the intersection of computer science, statistics, and social science. This course provides a hands-on, non-technical introduction to the methods and ideas of Computational Social Science. We will discuss how new online data sources and the methods that are being used to analyze them can shed new light on old social science questions, and also ask brand new questions. We will also explore some of the ethical and privacy challenges of living in a world where big data and algorithmic decision-making have become more commonplace. Each week, students will have the opportunity to try their hand at analyzing big data from sources ranging from online dating profiles to New York City taxicabs to #metoo Tweets and other sources. Note that this course is a 4-credit course that includes a weekly, 2-hour lab component in addition to lecture and discussion. 
 
+### Note on readings
+This online syllabus has links to the readings that are online. Where possible, we link to open access copies instead of paywalled ones. Students in the course also have access to a folder on Canvas with PDFs of all readings. 
+
 ## Course Schedule
 
 ### Week 1: Introduction to CSS
@@ -15,7 +18,7 @@ Due to the growth in electronic sources such as cell phones, Facebook Twitter, a
 	- Notebook: `0_Intro_to_python_text.ipynb`
 - Readings
 	- Required 
-		- Lazer, D., Pentland, A. S., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., ... & Jebara, T. (2009). Life in the network: the coming age of computational social science. Science (New York, NY), 323(5915), 721. 
+		- Lazer, D., Pentland, A. S., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., ... & Jebara, T. (2009). [Life in the network: the coming age of computational social science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/). Science (New York, NY), 323(5915), 721. 
 		- Ng, Fiona. 2016. “[Tinder Has an In-House Sociologist and Her Job Is to Figure Out What You Want](http://www.lamag.com/longform/tinder-sociologist).” Los Angeles Magazine, May 25.
 
 ### Week 2: Text as Data: CSS and social research, NLP intro
@@ -24,16 +27,16 @@ Due to the growth in electronic sources such as cell phones, Facebook Twitter, a
 	- Notebook: `2_Word_frequencies.ipynb`
 - Readings
 	- Required 
-		- Coupland, J. (2000). Past the ‘perfect kind of age’? Styling selves and relationships in over‐50s dating advertisements. Journal of Communication, 50(3), 9-30. 
-		- Bail, C. (2014). The cultural environment: measuring culture with big data. Theory and Society, 43(3-4), 465–482.
+		- Coupland, J. (2000). [Past the ‘perfect kind of age’? Styling selves and relationships in over‐50s dating advertisements](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-2466.2000.tb02850.x). Journal of Communication, 50(3), 9-30. 
+		- Bail, C. (2014). [The cultural environment: measuring culture with big data](https://www.researchgate.net/profile/Christopher_Bail/publication/260705893_The_Cultural_Environment_Measuring_Culture_With_Big_Data/links/5511662f0cf24e9311ce2f81.pdf). Theory and Society, 43(3-4), 465–482.
 	- Required for graduate students 
-		- Evans, James A. and Pedro Aceves (2016). Machine Translation: Mining Text for Social Theory.” Annual Review of Sociology. 
+		- Evans, James A. and Pedro Aceves (2016). "[Machine Translation: Mining Text for Social Theory](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081715-074206)." Annual Review of Sociology. 
 	- Optional 
-		- Grimmer and Stewart. Text as Data: The Promises and Pitfalls of Automated Content Analysis. 
-		- Bo et al. Thumbs up: Sentiment Classification using Machine Learning Techniques.
-Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poetics 22:291-312. 
-		- Miner, Horace. 1956. “Body Ritual Among the Nacirema” American Anthropologist 58(3): 503-507.  
-		- Lynn, M., & Bolig, R. (1985). Personal advertisements: Sources of data about relationships. Journal of Social and Personal Relationships, 2(3), 377-383. 
+		- Grimmer and Stewart (2013). [Text as Data: The Promises and Pitfalls of Automated Content Analysis](http://web.stanford.edu/~jgrimmer/tad2.pdf). Political Analysis.
+		- Bo et al. [Thumbs up: Sentiment Classification using Machine Learning Techniques](https://arxiv.org/pdf/cs/0205070).
+		- Carley, Kathleen. 1994. “[Extracting Culture Through Textual Analysis](http://www.casos.cs.cmu.edu/publications/protected/1990-1994/1993-1994/carley_1994_extractingculture.PDF).” Poetics 22:291-312. 
+		- Miner, Horace. 1956. “[Body Ritual Among the Nacirema](https://www.sfu.ca/~palys/Miner-1956-BodyRitualAmongTheNacirema.pdf)” American Anthropologist 58(3): 503-507.  
+		- Lynn, M., & Bolig, R. (1985). [Personal advertisements: Sources of data about relationships](https://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1330&context=articles). Journal of Social and Personal Relationships, 2(3), 377-383. 
 
 ### Week 3: Text as Data: Sociology of (Online) Dating, NLP Methods
 - Lab: Topic Modeling
@@ -41,13 +44,13 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 	- Notebook: `3_Topic_modeling.ipynb`
 - Readings
 	- Required 
-		- Pepin, Joanna. 2015. “Online Dating Choices, Constrained.” Contexts 14(4):7. (one page) 
+		- Pepin, Joanna. 2015. “[Online Dating Choices, Constrained](https://contexts.org/articles/online-dating-choices-constrained).” Contexts 14(4):7. (one page) 
 		- . 2009. "[Exactly what to say in a first message](https://theblog.okcupid.com/exactly-what-to-say-in-a-first-message-2bf680806c72?gi=75cc0350017e)." OKCupid Data Blog, September 13. 
 		- . 2010. "[The REAL 'stuff white people like'](https://web.archive.org/web/20170218084753/https://theblog.okcupid.com/the-real-stuff-white-people-like-66b131aa3ac8)." OKCupid Data Blog, September 7. 
-		- DiMaggio, Paul, Manish Nag, and David Blei. 2013. “Exploiting Affinities between Topic Modeling and the Sociological Perspective on Culture: Application to Newspaper Coverage of U.S. Government Arts Funding.” Poetics 41(6):570–606.
+		- DiMaggio, Paul, Manish Nag, and David Blei. 2013. “[Exploiting Affinities between Topic Modeling and the Sociological Perspective on Culture: Application to Newspaper Coverage of U.S. Government Arts Funding](https://pdfs.semanticscholar.org/85ab/4605df7dbe2b90abfd24081e1991421ea6f4.pdf).” Poetics 41(6):570–606.
 	- Required for graduate students 
-		- Smith, David A., Ryan Cordell, and Elizabeth Maddock Dillon. 2013. “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers.” Pp. 86–94 in 2013 IEEE International Conference on Big Data. Silicon Valley, CA, USA: IEEE. 
-		- Alix Rule, Jean-Philippe Cointet, and Peter S. Bearman. 2015. Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014 Proceedings of the National Academy of Sciences Vol 112 (35) 10837-10844
+		- Smith, David A., Ryan Cordell, and Elizabeth Maddock Dillon. 2013. “[Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers](http://www.ccs.neu.edu/home/dasmith/infect-bighum-2013.pdf).” Pp. 86–94 in 2013 IEEE International Conference on Big Data. Silicon Valley, CA, USA: IEEE. 
+		- Alix Rule, Jean-Philippe Cointet, and Peter S. Bearman. 2015. "[Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014](https://pdfs.semanticscholar.org/5e23/80a2c67521062c53c46ddb197b3a0588c874.pdf)." Proceedings of the National Academy of Sciences Vol 112 (35) 10837-10844
 	- Optional 
 		- Mason, Corinne Lysandra. 2016. “[Tinder and Humanitarian Hook-Ups: The Erotics of Social Media Racism](https://www.tandfonline.com/doi/abs/10.1080/14680777.2015.1137339?journalCode=rfms20).” Feminist Media Studies 16(5):822–37. 
 		- Sumter, Sindy R., Laura Vandenbosch, and Loes Ligtenberg. 2017. “[Love Me Tinder: Untangling Emerging Adults’ Motivations for Using the Dating Application Tinder](https://www.sciencedirect.com/science/article/abs/pii/S0736585316301216).” Telematics and Informatics 34(1):67–78.
@@ -58,21 +61,24 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 	- Notebook: `0_Intro_Reddit_Data.ipynb`
 - Readings
 	- Required 
-		- Ko, Allen, Mou, Merry, and Matias, J. Nathan. 2016. “The Obligation To Experiment.” MIT Media Lab, Medium.  
-		- Bertrand, Marianne and Sendhil Mullainathan. 2004. “Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination.” American Economic Review 94(4):991–1013. 
-		- Salganik, M. J., Dodds, P. S., Watts, D. J. (2006). Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market. Science, 311(5762), 854–856. 
+		- Ko, Allen, Mou, Merry, and Matias, J. Nathan. 2016. “[The Obligation To Experiment](https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9).” MIT Media Lab, Medium.  
+		- Bertrand, Marianne and Sendhil Mullainathan. 2004. “[Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination](https://www.nber.org/papers/w9873.pdf).” American Economic Review 94(4):991–1013. 
+		- Salganik, M. J., Dodds, P. S., Watts, D. J. (2006). "[Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market](https://marketing.wharton.upenn.edu/wp-content/uploads/2018/09/09.18.2018-Watts-Duncan-PAPER-1-s_d_w_Science.pdf)." Science, 311(5762), 854–856. 
 	- Required for graduate students 
-		- Centola, D., Baronchelli, A. (2015). The spontaneous emergence of conventions: An experimental study of cultural evolution. Proceedings of the National Academy of Sciences, 112(7), 1989–1994. 
-		- E. Bakshy, S. Messing, L. A. Adamic (2015) "Exposure to ideologically diverse news and opinion on Facebook", Science
+		- Centola, D., Baronchelli, A. (2015). "[The spontaneous emergence of conventions: An experimental study of cultural evolution](https://www.pnas.org/content/pnas/112/7/1989.full.pdf)." Proceedings of the National Academy of Sciences, 112(7), 1989–1994. 
+		- E. Bakshy, S. Messing, L. A. Adamic (2015) "[Exposure to ideologically diverse news and opinion on Facebook](http://science.sciencemag.org/content/sci/early/2015/05/08/science.aaa1160.full.pdf?casa_token=VAKTlCOKKdAAAAAA:qHEKFmzL8Fc_ymVtULqqFgVxEOIE-tzymKVTURh_jwsmthWSn0gyf0ibqwePX6Rag0alcd-yOoNYyQ8)." Science
 	- Optional 
-		- Salganik, M.J., and Watts, D.J. (2008). Leading the herd astray: Experimental study of self-fulfilling prophecies in an artificial cultural market. Social Psychology Quarterly, 71:338-355.  
-		- Salganik, M.J. and Watts, D.J. (2009) Web-based Experiments for the Study of Collective Social Dynamics in Cultural Markets. Topics in Cognitive Science, 1(3):439{468, 2009. 
-		- Bail, Christopher A., Lisa Argyle, Taylor Brown, John Bumpus, Haohan Chen, M. B. Fallin Hunzaker, Jaemin Lee, Marcus Mann, Friedolin Merhout, and Alexander Volfovsky. 2018. “Exposure to Opposing Views Can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media.” SocArXiv.
+		- Salganik, M.J., and Watts, D.J. (2008). "[Leading the herd astray: Experimental study of self-fulfilling prophecies in an artificial cultural market](http://www.uvm.edu/pdodds/research/papers/others/2008/salganik2008a.pdf)." Social Psychology Quarterly, 71:338-355.  
+		- Salganik, M.J. and Watts, D.J. (2009) "[Web-based Experiments for the Study of Collective Social Dynamics in Cultural Markets](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.306.4286&rep=rep1&type=pdf)." Topics in Cognitive Science, 1(3):439{468, 2009. 
+		- Bail, Christopher A., Lisa Argyle, Taylor Brown, John Bumpus, Haohan Chen, M. B. Fallin Hunzaker, Jaemin Lee, Marcus Mann, Friedolin Merhout, and Alexander Volfovsky. 2018. “[Exposure to Opposing Views Can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media](https://osf.io/preprints/socarxiv/4ygux/).” Proceedings of the National Academy of Sciences.
 - Lab: Experiments
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
 	- Notebook: ``
 
 ### Week 5: Communities and Norms
+- Lab: Community Dynamics
+	- Repository: [https://github.com/UM-CSS/CSSLabs-Community-Dynamics](https://github.com/UM-CSS/CSSLabs-Community-Dynamics)
+	- Notebooks: `0_Intro_Reddit_Data.ipynb`
 - Readings
 	- Required 
 		- Voigt, Rob, Nicholas P. Camp, Vinodkumar Prabhakaran, William L. Hamilton, Rebecca C. Hetey, Camilla M. Griffiths, David Jurgens, Dan Jurafsky, and Jennifer L. Eberhardt. 2017. “Language from Police Body Camera Footage Shows Racial Disparities in Officer Respect.” Proceedings of the National Academy of Sciences 114(25):6521–26.  
@@ -204,7 +210,7 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 	- Notebook: `1_metoo.ipynb`
 - Readings
 	- Required 
-		- 2015. “[The Social Network Illusion that Tricks Your Mind](https://www.technologyreview.com/s/538866/the-social-network-illusion-that-tricks-your-mind/).” MIT Technology Review. 
+		- . 2015. “[The Social Network Illusion that Tricks Your Mind](https://www.technologyreview.com/s/538866/the-social-network-illusion-that-tricks-your-mind/).” MIT Technology Review. 
 		- Garber, Megan. 2011. “[The contribution conundrum: Why did Wikipedia succeed while other encyclopedias failed?](http://www.niemanlab.org/2011/10/the-contribution-conundrum-why-did-wikipedia-succeed-while-other-encyclopedias-failed/)” Nieman Labs.  
 		- Centola, Damon and Michael Macy. 2007. “Complex Contagions and the Weakness of Long Ties.” American Journal of Sociology 113(3):702–34. 
 		- State, Bogdan and Lada Adamic. 2015. “The Diffusion of Support in an Online Social Movement: Evidence from the Adoption of Equal-Sign Profile Pictures.” Pp. 1741–1750 in Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing, CSCW ’15. New York, NY, USA: ACM.
@@ -222,7 +228,7 @@ Carley, Kathleen. 1994. “Extracting Culture Through Textual Analysis.” Poeti
 ### Week 14: The Cutting Edge
 - Lab: 
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Extra](https://github.com/UM-CSS/CSSLabs-Extra)
-	- Notebook: ``
+	- Notebook: `0_Taxi.ipynb`
 - Readings
 	- Required 
 		- Jean, Neal, Marshall Burke, Michael Xie, W. Matthew Davis, David B. Lobell, and Stefano Ermon. 2016. “Combining Satellite Imagery and Machine Learning to Predict Poverty.” Science 353(6301):790–94. 
