@@ -116,13 +116,13 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Crawford, Kate. 2013. “[The Hidden Biases in Big Data](https://hbr.org/2013/04/the-hidden-biases-in-big-data).” Harvard Business Review, April 1.  
 		- Stephens, Alexis. 2014. “[Big Data Has Potential to Both Hurt and Help Disadvantaged Communities](https://nextcity.org/daily/entry/big-data-good-bad-help-disadvantaged-communities).” Next City. Retrieved September 29, 2018. 
 		- Bower, Bruce. 2018. “[‘Replication crisis’ spurs reforms in how science studies are done](https://www.sciencenews.org/blog/science-public/replication-crisis-psychology-science-studies-statistics).”  
-		- , D. M., Kennedy, R., King, G., & Vespignani, A. (2014). The parable of Google Flu: Traps in big data analysis. Science 343(6176):1203-1205
+		- Lazer, D. M., Kennedy, R., King, G., & Vespignani, A. (2014). "[The parable of Google Flu: Traps in big data analysis](http://www.davidlazer.com/sites/default/files/The%20Parable%20of%20Google%20Flu%20(WP-Final).pdf)." Science 343(6176):1203-1205
 	- Required for graduate students 
-		- Goel, S. and Salganik, M.J. (2010) Assessing respondent-driven sampling. PNAS. 
+		- Goel, S. and Salganik, M.J. (2010) "[Assessing respondent-driven sampling](https://www.princeton.edu/~mjs3/goel_salganik10.pdf)." PNAS. 
 		- Tyler J. VanderWeele and Whitney R. Robinson. 2014. "[On causal interpretation of race in regressions adjusting for confounding and mediating variables](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4125322/)."
 	- Optional 
-		- Brayne, Sarah. 2017. “Big Data Surveillance: The Case of Policing.” American Sociological Review 82(5):977–1008. 
-		- 2015. “[Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations).” Harvard Business Review. 
+		- Brayne, Sarah. 2017. “[Big Data Surveillance: The Case of Policing](https://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf).” American Sociological Review 82(5):977–1008. 
+		- . 2015. “[Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations).” Harvard Business Review. 
 		- Lisa Gitelman. 2013. [Raw Data is an Oxymoron](https://mitpress.mit.edu/books/raw-data-oxymoron)
 
 ### Week 8: Midterm
@@ -138,19 +138,19 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Required 
 		- Tufekci, Zeynep. 2018. “[Facebook’s Surveillance Machine](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html) .” New York Times. 
 		- Eubanks, Virginia. 2018. “[A Child Abuse Prediction Model Fails Poor Families](https://www.wired.com/story/excerpt-from-automating-inequality/).” Excerpt from Automating Inequality. Wired. 
-		- Sweeney, L. (2000). Simple Demographics Often Identify People Uniquely. Carnegie Mellon University Data Privacy Working Paper 3. Pittsburgh 2000.  
+		- Sweeney, L. (2000). "[Simple Demographics Often Identify People Uniquely](http://ggs685.pbworks.com/w/file/fetch/94376315/Latanya.pdf)." Carnegie Mellon University Data Privacy Working Paper 3. Pittsburgh 2000.  
 		- Mattson, Greggor. 2017. “[Dating Profiles Are Like Gay Bars: Peer Review, Ethics and LGBTQ Big Data](https://greggormattson.com/2017/09/13/peer-review-ethics-and-lgbtq-big-data/).” Retrieved July 7, 2018.
 	- Required for graduate students 
-		- Gelman, Andrew, Greggor Mattson, and Daniel Simpson. 2018. “Gaydar and the Fallacy of Decontextualized Measurement.” Sociological Science 5:270–80. 
-		- Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ashesh Rambachan. 2018. “Algorithmic Fairness.” AEA Papers and Proceedings 108:22–27. 
+		- Gelman, Andrew, Greggor Mattson, and Daniel Simpson. 2018. “[Gaydar and the Fallacy of Decontextualized Measurement](https://www.sociologicalscience.com/download/vol-5/may/SocSci_v5_270to280.pdf).” Sociological Science 5:270–80. 
+		- Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ashesh Rambachan. 2018. “[Algorithmic Fairness](https://www.cs.cornell.edu/home/kleinber/aer18-fairness.pdf).” AEA Papers and Proceedings 108:22–27. 
 		- Speer, Rob. 2017. "[How to make a racist AI without really trying](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/)."
 	- Optional 
-		- Kleinberg, Jon and Sendhil Mullainathan. 2018. “Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability.” ArXiv:1809.04578 [Cs, Stat]. 
-		- Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on Fairness, Accountability and Transparency (pp. 77-91). 
+		- Kleinberg, Jon and Sendhil Mullainathan. 2018. “[Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability](https://arxiv.org/pdf/1809.04578).” ArXiv:1809.04578. 
+		- Buolamwini, J., & Gebru, T. (2018, January). "[Gender shades: Intersectional accuracy disparities in commercial gender classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)." In Conference on Fairness, Accountability and Transparency (pp. 77-91). 
 		- Zimmer, Michael. 2016. "[OKCupid Study Reveals the Perils of Big-Data Science](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)." Wired May 14. 
-		- , Steve. 2018. “[Facial Recognition Is Accurate, If You’re a White Guy](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html).” New York Times, February 9. 
-		- , Julia, Jeff Larsen, Surya Mattu, and Lauren Kirchner. 2016. Machine Bias. text/html. ProPublica. 
-		- Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246.
+		- Lohr, Steve. 2018. “[Facial Recognition Is Accurate, If You’re a White Guy](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html).” New York Times, February 9. 
+		- Angwin, Julia, Jeff Larsen, Surya Mattu, and Lauren Kirchner. 2016. "[Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)." ProPublica. 
+		- Wang, Y., & Kosinski, M. (2018). "[Deep neural networks are more accurate than humans at detecting sexual orientation from facial images](https://osf.io/hv28a/download/?format=pdf)." Journal of personality and social psychology, 114(2), 246.
 
 
 ### Week 10: Networks
@@ -159,11 +159,11 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Notebooks: `0_Networks.ipynb` and `1_Network_Structure.ipynb`
 - Readings
 	- Required 
-		- Watts, Duncan. 1999. Small Worlds. Chapter 1. Princeton University Press: 3-8.  
-		- Healy, K. (2013). "Using Metadata to Find Paul Revere." Blog post, kieranhealy.org. 
-		- Austin, D. (2006). "How Google Finds Your Needle in the Web's Haystack." American Mathematical Society Feature Column.
+		- Watts, Duncan. 1999. [*Small Worlds*](http://blacky.terra32.net/trusso/CorsoTeoriaAvanzataReti/info4/altrecose/DuncanJWattsSigma.pdf). Chapter 1. Princeton University Press: 3-8.  
+		- Healy, K. (2013). "[Using Metadata to Find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)." Blog post. 
+		- Austin, D. (2006). "[How Google Finds Your Needle in the Web's Haystack](http://www.ams.org/publicoutreach/feature-column/fcarc-pagerank)." American Mathematical Society Feature Column.
 	- Required for graduate students 
-		- Breiger, R. L. (1974). The duality of persons and groups. Social forces, 53(2), 181-190.
+		- Breiger, R. L. (1974). "[The duality of persons and groups](http://www.uvm.edu/~pdodds/research/papers/others/1974/breiger1974a.pdf)." Social forces, 53(2), 181-190.
 
 ### Week 11: Using Networks for Social Science
 - Lab: Networks
@@ -171,17 +171,17 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Notebook: `2_Social_Rank_and_Hierarchy.ipynb`
 - Readings
 	- Required 
-		- Granovetter, Mark S. 1973. “The Strength of Weak Ties.” American Journal of Sociology 78(6): 1360-1380.  
-		- S. Milgram (1967) “The small world problem,” Psychology Today. 
-		- Watts, D. (2016). "How small is the world, really?" Blog post, medium.com. 
-		- Eckert, P. (1989). "The corporate structure of the school." In Jocks and Burnouts. Teacher's College Press.
+		- Granovetter, Mark S. 1973. “[The Strength of Weak Ties](http://bkp.pirna.com.ar/files/pirna/ARS1/ARS1-04-Granovetter-1973-The-strength-of-weak-ties.pdf).” American Journal of Sociology 78(6): 1360-1380.  
+		- S. Milgram (1967) “[The small world problem](http://snap.stanford.edu/class/cs224w-readings/milgram67smallworld.pdf),” Psychology Today. 
+		- Watts, D. (2016). "[How small is the world, really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba)" Blog post. 
+		- Eckert, P. (1989). "[The corporate structure of the school](https://books.google.com/books/about/Jocks_and_Burnouts.html?id=RtTZ230kVPYC)." In Jocks and Burnouts. Teacher's College Press.
 	- Required for graduate students 
-		- C. Shalizi, A. Thomas (2011) "Homophily and contagion are generically confounded in observational social network studies", Sociological methods & research. 
-		- Rapoport, A., & Horvath, W. J. (1961). "A study of a large sociogram". Systems Research and Behavioral Science, 6(4).
+		- C. Shalizi, A. Thomas (2011) "[Homophily and contagion are generically confounded in observational social network studies](http://static.stevereads.com/papers_to_read/homophily_and_contagion_are_generically_confounded_in_observational_social_network_studies.pdf)." Sociological methods & research. 
+		- Rapoport, A., & Horvath, W. J. (1961). "[A study of a large sociogram](http://aris.ss.uci.edu/~lin/61.pdf)." Systems Research and Behavioral Science, 6(4).
 	- Optional 
-		- Merten, D. E. (1997). "The meaning of meanness: Popularity, competition, and conflict among junior high school girls." Sociology of Education. 
-		- L. Michell, & A. Amos, (1997). "Girls, pecking order and smoking." Social Science & Medicine 44(12). 
-		- Coleman, James S. 1988. “Social Capital in the Creation of Human Capital.” The American Journal of Sociology 94, Supplement: Organizations and Institutions: Sociological and Economic Approaches to the Analysis of Social Structure: S95- S120. 
+		- Merten, D. E. (1997). "[The meaning of meanness: Popularity, competition, and conflict among junior high school girls](https://www.jstor.org/stable/2673207)." Sociology of Education. 
+		- L. Michell, & A. Amos, (1997). "[Girls, pecking order and smoking](https://europepmc.org/abstract/med/9194247)." Social Science & Medicine 44(12). 
+		- Coleman, James S. 1988. “[Social Capital in the Creation of Human Capital](http://www.researchsalons.crcresearch.org/files-crcresearch/File/coleman_88.pdf).” The American Journal of Sociology 94, Supplement: Organizations and Institutions: Sociological and Economic Approaches to the Analysis of Social Structure: S95- S120. 
 
 
 ### Week 12: Social Dynamics: Feedback in Social Environments
@@ -228,13 +228,12 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Notebook: `0_Taxi.ipynb`
 - Readings
 	- Required 
-		- Jean, Neal, Marshall Burke, Michael Xie, W. Matthew Davis, David B. Lobell, and Stefano Ermon. 2016. “Combining Satellite Imagery and Machine Learning to Predict Poverty.” Science 353(6301):790–94. 
+		- Jean, Neal, Marshall Burke, Michael Xie, W. Matthew Davis, David B. Lobell, and Stefano Ermon. 2016. “[Combining Satellite Imagery and Machine Learning to Predict Poverty](http://science.sciencemag.org/content/353/6301/790.short).” Science 353(6301):790–94. 
 		- Schneider, Todd. 2015. “[Analyzing 1.1 Billion NYC Taxi and Uber Trips, with a Vengeance](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance).” Toddwschneider.Com. Nov 17th. Retrieved September 29, 2018.
 	 - Required for graduate students 
-		- Tuite, Kathleen, Noah Snavely, Dun-yu Hsiao, Nadine Tabing, and Zoran Popovic. 2011. “PhotoCity: Training Experts at Large-Scale Image Acquisition Through a Competitive Game.” Pp. 1383–1392 in Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI ’11. New York, NY, USA: ACM.
+		- Tuite, Kathleen, Noah Snavely, Dun-yu Hsiao, Nadine Tabing, and Zoran Popovic. 2011. “[PhotoCity: Training Experts at Large-Scale Image Acquisition Through a Competitive Game](https://homes.cs.washington.edu/~ktuite/photocity-chi2011.pdf).” Pp. 1383–1392 in Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI ’11. New York, NY, USA: ACM.
 	- Optional 
-		- Casas and Webb Williams. Images as Data: Computer Vision for Social Science Research
-
+		- Casas and Webb Williams. "[Computer Vision for Political Science Research: A Study of Online Protest Images](http://andreucasas.com/casas_webb_williams_NewFaces2017_images_as_data.pdf)." Working paper.
 ### Week 15: Review
 
 
