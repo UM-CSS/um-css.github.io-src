@@ -71,9 +71,6 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Salganik, M.J., and Watts, D.J. (2008). "[Leading the herd astray: Experimental study of self-fulfilling prophecies in an artificial cultural market](http://www.uvm.edu/pdodds/research/papers/others/2008/salganik2008a.pdf)." Social Psychology Quarterly, 71:338-355.  
 		- Salganik, M.J. and Watts, D.J. (2009) "[Web-based Experiments for the Study of Collective Social Dynamics in Cultural Markets](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.306.4286&rep=rep1&type=pdf)." Topics in Cognitive Science, 1(3):439{468, 2009. 
 		- Bail, Christopher A., Lisa Argyle, Taylor Brown, John Bumpus, Haohan Chen, M. B. Fallin Hunzaker, Jaemin Lee, Marcus Mann, Friedolin Merhout, and Alexander Volfovsky. 2018. “[Exposure to Opposing Views Can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media](https://osf.io/preprints/socarxiv/4ygux/).” Proceedings of the National Academy of Sciences.
-- Lab: Experiments
-	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
-	- Notebook: ``
 
 ### Week 5: Communities and Norms
 - Lab: Community Dynamics
@@ -81,17 +78,17 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Notebooks: `0_Intro_Reddit_Data.ipynb`
 - Readings
 	- Required 
-		- Voigt, Rob, Nicholas P. Camp, Vinodkumar Prabhakaran, William L. Hamilton, Rebecca C. Hetey, Camilla M. Griffiths, David Jurgens, Dan Jurafsky, and Jennifer L. Eberhardt. 2017. “Language from Police Body Camera Footage Shows Racial Disparities in Officer Respect.” Proceedings of the National Academy of Sciences 114(25):6521–26.  
+		- Voigt, Rob, Nicholas P. Camp, Vinodkumar Prabhakaran, William L. Hamilton, Rebecca C. Hetey, Camilla M. Griffiths, David Jurgens, Dan Jurafsky, and Jennifer L. Eberhardt. 2017. “[Language from Police Body Camera Footage Shows Racial Disparities in Officer Respect](https://europepmc.org/articles/pmc5488942).” Proceedings of the National Academy of Sciences 114(25):6521–26.  
 		- Danescu-Niculescu-Mizil, Cristian, Robert West, Dan Jurafsky, Jure Leskovec, and Christopher Potts. 2013. “[No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities](https://nlp.stanford.edu/pubs/linguistic_change_lifecycle.pdf).” Pp. 307–18 in Proceedings of the 22nd international conference on World Wide Web. ACM. 
 	- Required for graduate students 
-		- Collins, Randall. 1981. “On the Microfoundations of Macrosociology.” American Journal of Sociology 86(5):984-1014.  
-		- Hochschild, Arlie Russel. 1979. “Emotion Work, Feeling Rules and Social Structure.” The American Journal of Sociology 85(3):551-575. 
+		- Collins, Randall. 1981. “[On the Microfoundations of Macrosociology](http://faculty.tamuc.edu/jsun/On%20the%20Microfoundations%20of%20Macrosociology.pdf).” American Journal of Sociology 86(5):984-1014.  
+		- Hochschild, Arlie Russel. 1979. “[Emotion Work, Feeling Rules and Social Structure](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.949.5360&rep=rep1&type=pdf).” The American Journal of Sociology 85(3):551-575. 
 	- Optional 
-		- Postmes, T. 2000. “The Formation of Group Norms in Computer-Mediated Communication.” Human Communication Research 26(3):341–71. 
+		- Postmes, T. 2000. “[The Formation of Group Norms in Computer-Mediated Communication](https://pdfs.semanticscholar.org/8567/d18a8ec9867aecea62015fc000b86e8f083c.pdf).” Human Communication Research 26(3):341–71. 
 		- Palmer, Alexis, Melissa Robinson, and Kristy Philips. 2017. “[Illegal Is Not a Noun: Linguistic Form for Detection of Pejorative Nominalizations](https://www.aclweb.org/anthology/W17-3014).” Pp. 91–100 in Proceedings of the First Workshop on Abusive Language Online. Vancouver. 
 		- Danescu-Niculescu-Mizil, Cristian, et al. 2013. "[A computational approach to politeness with application to social factors](https://www.cs.cornell.edu/~cristian/Politeness.html)." Proceedings of ACL. 
-		- Shaw, A., & Hill, B. M. (2014). Laboratories of oligarchy? How the iron law extends to peer production. Journal of Communication, 64(2), 215-238. 
-		- Golder, S. A. and M. W. Macy. 2011. “Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures.” Science 333(6051):1878–81.
+		- Shaw, A., & Hill, B. M. (2014). "[Laboratories of oligarchy? How the iron law extends to peer production](https://arxiv.org/pdf/1407.0323)." Journal of Communication, 64(2), 215-238. 
+		- Golder, S. A. and M. W. Macy. 2011. “[Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures](http://science.sciencemag.org/content/sci/333/6051/1878.full.pdf?casa_token=i0C07afKjNIAAAAA:MvQb-Ovblnl7BOQgly8zf8rTOwnlmVzf5t-XlPSTNbryV8DGexjTIsIO9J8YexiVGMhakIXkSxjKWMY).” Science 333(6051):1878–81.
 
 ### Week 6: Communities in Flux 
 - Lab: Community Dynamics
@@ -99,16 +96,16 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Notebooks: `1_Evolution_of_Community_Norms.ipynb` and `2_Other_shocks_to_communities.ipynb`
 - Readings
 	- Required 
-		- Chandrasekharan, Eshwar, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. 2017. “You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech.” Proceedings of the ACM on Human-Computer Interaction 1(CSCW):1–22. 
+		- Chandrasekharan, Eshwar, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. 2017. “[You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech](https://www.cc.gatech.edu/~eshwar3/uploads/3/8/0/4/38043045/cscw2018-chandrasekharan-reddit2015ban.pdf).” Proceedings of the ACM on Human-Computer Interaction 1(CSCW):1–22. 
 		- Hern, Alex. 2014. "[Reddit women protest at new front-page position](https://www.theguardian.com/technology/2014/may/13/reddit-women-protest-front-page-subforum-subreddit-position)." The Guardian, 13 May.
 	- Required for graduate students 
-		- Massanari, Adrienne. 2017. “#Gamergate and The Fappening: How Reddit’s Algorithm, Governance, and Culture Support Toxic Technocultures.” New Media & Society 19(3):329–46.
+		- Massanari, Adrienne. 2017. “[#Gamergate and The Fappening: How Reddit’s Algorithm, Governance, and Culture Support Toxic Technocultures](https://journals.sagepub.com/doi/pdf/10.1177/1461444815608807).” New Media & Society 19(3):329–46.
 	- Optional 
-		- Franco, V., Piirto, R., Hu, H. Y., Lewenstein, B. V., Underwood, R., & Vidal, N. K. (1995). Anatomy of a flame: conflict and community building on the Internet. IEEE Technology and Society Magazine, 14(2), 12-21. 
-		- Gonzalez-Bailon, S., Kaltenbrunner, A., & Banchs, R. E. (2010). The structure of political discussion networks: a model for the analysis of online deliberation. Journal of Information Technology, 25(2), 230-243. 
-		- Müller, Karsten and Carlo Schwarz. 2018. Fanning the Flames of Hate: Social Media and Hate Crime. SSRN Scholarly Paper. ID 3082972. Rochester, NY: Social Science Research Network. 
-		- Mantilla, Karla. 2013. “Gendertrolling: Misogyny Adapts to New Media.” Feminist Studies 39(2):563–70. 
-		- Panek, Elliot, Connor Hollenbach, Jinjie Yang, and Tyler Rhodes. 2017. “Growth and Inequality of Participation in Online Communities: A Longitudinal Analysis.” Pp. 51:1–51:5 in Proceedings of the 8th International Conference on Social Media & Society, #SMSociety17. New York, NY, USA: ACM.
+		- Franco, V., Piirto, R., Hu, H. Y., Lewenstein, B. V., Underwood, R., & Vidal, N. K. (1995). "[Anatomy of a flame: conflict and community building on the Internet](https://ieeexplore.ieee.org/abstract/document/393044)." IEEE Technology and Society Magazine, 14(2), 12-21. 
+		- Gonzalez-Bailon, S., Kaltenbrunner, A., & Banchs, R. E. (2010). "[The structure of political discussion networks: a model for the analysis of online deliberation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.624.5311&rep=rep1&type=pdf)." Journal of Information Technology, 25(2), 230-243. 
+		- Müller, Karsten and Carlo Schwarz. 2018. "[Fanning the Flames of Hate: Social Media and Hate Crime](https://pdfs.semanticscholar.org/b19c/8a6eb0a519749a724a34b677aa7d3cf24e74.pdf)." SSRN Scholarly Paper. ID 3082972. Rochester, NY: Social Science Research Network. 
+		- Mantilla, Karla. 2013. “[Gendertrolling: Misogyny Adapts to New Media](https://www.jstor.org/stable/23719068).” Feminist Studies 39(2):563–70. 
+		- Panek, Elliot, Connor Hollenbach, Jinjie Yang, and Tyler Rhodes. 2017. “[Growth and Inequality of Participation in Online Communities: A Longitudinal Analysis](https://dl.acm.org/citation.cfm?id=3097337).” Pp. 51:1–51:5 in Proceedings of the 8th International Conference on Social Media & Society, #SMSociety17. New York, NY, USA: ACM.
 
 ### Week 7: From Data to Conclusions: Validity and Generalizability
 - Lab: Student data
