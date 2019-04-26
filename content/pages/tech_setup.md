@@ -4,7 +4,7 @@ Summary: Technical and setup informaiton for the course
 
 
 ## Using Azure Notebooks
-We have made up a quick [guide to using Azure Notebooks]({filename}/pdfs/Azure_Guide.pdf) for students in the class.
+We have made up a quick [guide to using Azure Notebooks]({static}/pdfs/Azure_Guide.pdf) for students in the class.
 
 ## Using Jupyter
 Jupyter has an excellent introductory user guide for [notebook basics](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb).
