@@ -71,7 +71,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- .
 - Lab: Experiments
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
-	- Notebook: ``
+	- Notebooks: `0_Online_Experiments.ipynb` and `1_Power_Calculation.ipynb`
 - Readings
 	- Required 
 		- Ko, Allen, Mou, Merry, and Matias, J. Nathan. 2016. “[The Obligation To Experiment](https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9).” MIT Media Lab, Medium.  
@@ -152,7 +152,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- See results of class experiment in lab sections
 - Lab: Experiments
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
-	- Notebook: ``
+	- Notebooks: `0_Online_Experiments.ipynb` and `1_Power_Calculation.ipynb`
 
 ### Week 9: Algorithms and Society
 - Topics: 
@@ -221,15 +221,15 @@ This online syllabus has links to the readings that are online. Where possible, 
 - Readings
 	- Required 
 		- Hart, Vi, and Case, Nicky. 2014. “[The Parable of the Polygons](https://ncase.me/polygons/).” 
-		- Granovetter, Mark. 1978. “Threshold Models of Collective Behavior.” American Journal of Sociology 83(6):1420–43. 
-		- Bruch, Elizabeth and Jon Atwell. 2015. “Agent-Based Models in Empirical Social Research.” Sociological Methods & Research 44(2):186–221.
+		- Granovetter, Mark. 1978. “[Threshold Models of Collective Behavior](http://www2.cs.siu.edu/~hexmoor/classes/CS539-F10/Collective-Behavior.pdf).” American Journal of Sociology 83(6):1420–43. 
+		- Bruch, Elizabeth and Jon Atwell. 2015. “[Agent-Based Models in Empirical Social Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4430112/).” Sociological Methods & Research 44(2):186–221.
 	- Required for graduate students 
-		- Axelrod, R. (1986). An evolutionary approach to norms. American political science review, 80(4), 1095-1111. 
-		- Robert, Lionel and Daniel M. Romero. 2015. “Crowd Size, Diversity and Performance.” Pp. 1379–1382 in Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, CHI ’15. New York, NY, USA: ACM. 
-		- Schelling, Thomas C. 1969. “Models of Segregation.” American Economic Review 59(2):488–93.
+		- Axelrod, R. (1986). "[An evolutionary approach to norms](http://www-personal.umich.edu/~axe/Axelrod%20Norms%20APSR%201986%20(2).pdf)." American political science review, 80(4), 1095-1111. 
+		- Robert, Lionel and Daniel M. Romero. 2015. “[Crowd Size, Diversity and Performance](https://www.researchgate.net/profile/Lionel_Robert/publication/277476361_Crowd_Size_Diversity_and_Performance/links/556b71e308aeab7772214685.pdf).” Pp. 1379–1382 in Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, CHI ’15. New York, NY, USA: ACM. 
+		- Schelling, Thomas C. 1969. “[Models of Segregation](https://www.rand.org/content/dam/rand/pubs/research_memoranda/2008/RM6014.pdf).” American Economic Review 59(2):488–93.
 	- Optional 
-		- Axelrod, R. (1987). The evolution of strategies in the iterated prisoner’s dilemma. The dynamics of norms, 1-16. 
-		- Epstein, J. M. 2002. “Modeling Civil Violence: An Agent-Based Computational Approach.” Proceedings of the National Academy of Sciences 99:7243–50.
+		- Axelrod, R. (1987). *[The evolution of strategies in the iterated prisoner’s dilemma](https://books.google.co.uk/books?hl=en&lr=&id=ddc9AAAAIAAJ&oi=fnd&pg=PA1&dq=The+evolution+of+strategies+in+the+iterated+prisoner%E2%80%99s+dilemma&ots=0xfvOrDGV5&sig=ypNnB9BAn-ysG57EeH9I9IeDjOw#v=onepage&q=The%20evolution%20of%20strategies%20in%20the%20iterated%20prisoner%E2%80%99s%20dilemma&f=false)*. The dynamics of norms, 1-16. 
+		- Epstein, J. M. 2002. “[Modeling Civil Violence: An Agent-Based Computational Approach](https://www.pnas.org/content/pnas/99/suppl_3/7243.full.pdf).” Proceedings of the National Academy of Sciences 99:7243–50.
 
 ### Week 13: Social Dynamics: Behavior in Social Networks
 - Topics:
@@ -242,17 +242,17 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Required 
 		- . 2015. “[The Social Network Illusion that Tricks Your Mind](https://www.technologyreview.com/s/538866/the-social-network-illusion-that-tricks-your-mind/).” MIT Technology Review. 
 		- Garber, Megan. 2011. “[The contribution conundrum: Why did Wikipedia succeed while other encyclopedias failed?](http://www.niemanlab.org/2011/10/the-contribution-conundrum-why-did-wikipedia-succeed-while-other-encyclopedias-failed/)” Nieman Labs.  
-		- Centola, Damon and Michael Macy. 2007. “Complex Contagions and the Weakness of Long Ties.” American Journal of Sociology 113(3):702–34. 
-		- State, Bogdan and Lada Adamic. 2015. “The Diffusion of Support in an Online Social Movement: Evidence from the Adoption of Equal-Sign Profile Pictures.” Pp. 1741–1750 in Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing, CSCW ’15. New York, NY, USA: ACM.
+		- Centola, Damon and Michael Macy. 2007. “[Complex Contagions and the Weakness of Long Ties](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.9694&rep=rep1&type=pdf).” American Journal of Sociology 113(3):702–34. 
+		- State, Bogdan and Lada Adamic. 2015. “[The Diffusion of Support in an Online Social Movement: Evidence from the Adoption of Equal-Sign Profile Pictures](http://delivery.acm.org/10.1145/2680000/2675290/p1741-state.pdf).” Pp. 1741–1750 in Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing, CSCW ’15. New York, NY, USA: ACM.
 	- Required for graduate students 
-		- Axelrod, Robert and D. Scott Bennett “A Landscape Theory of Aggregation”, British Journal of Political Science, Vol. 23:2: 211-233 (1993). 
-		- Romero, Daniel M., Brendan Meeder, and Jon Kleinberg. 2011. “Differences in the Mechanics of Information Diffusion Across Topics: Idioms, Political Hashtags, and Complex Contagion on Twitter.” Pp. 695–704 in Proceedings of the 20th International Conference on World Wide Web, WWW ’11. New York, NY, USA: ACM.
+		- Axelrod, Robert and D. Scott Bennett “[A Landscape Theory of Aggregation](http://www-personal.umich.edu/~axe/Ax%20Bennett%20Landscape%20BJPS%201993.pdf).” British Journal of Political Science, Vol. 23:2: 211-233 (1993). 
+		- Romero, Daniel M., Brendan Meeder, and Jon Kleinberg. 2011. “[Differences in the Mechanics of Information Diffusion Across Topics: Idioms, Political Hashtags, and Complex Contagion on Twitter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.4938&rep=rep1&type=pdf).” Pp. 695–704 in Proceedings of the 20th International Conference on World Wide Web, WWW ’11. New York, NY, USA: ACM.
 	- Optional 
-		- Nickerson, D.W. (2008). Is voting contagious? Evidence from two field experiments. American Political Science Review, 102(1):49-57.  
+		- Nickerson, D.W. (2008). "[Is voting contagious? Evidence from two field experiments](https://sites.temple.edu/nickerson/files/2017/07/nickerson.contagion.pdf)." American Political Science Review, 102(1):49-57.  
 		- , Brian and Casey Fiesler. 2017. “The Evolution and Consequences of Peer Producing Wikipedia’s Rules.” 
-		- Taylor, S. J., & Eckles, D. (2018). Randomized experiments to detect and estimate social influence in networks. In Complex Spreading Phenomena in Social Systems (pp. 289-322). Springer, Cham. 
-		- , S., Anderson, A., Hofman, J., & Watts, D. J. (2015). The structural virality of online diffusion. Management Science, 62(1), 180-196. 
-		- , A., & Woodard, R. (2013). Estimating the historical and future probabilities of large terrorist events. The Annals of Applied Statistics, 7(4), 1838-1865.
+		- Taylor, S. J., & Eckles, D. (2018). "[Randomized experiments to detect and estimate social influence in networks](https://arxiv.org/pdf/1709.09636)." In Complex Spreading Phenomena in Social Systems (pp. 289-322). Springer, Cham. 
+		- , S., Anderson, A., Hofman, J., & Watts, D. J. (2015). "[The structural virality of online diffusion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/twiral.pdf)." Management Science, 62(1), 180-196. 
+		- , A., & Woodard, R. (2013). "[Estimating the historical and future probabilities of large terrorist events](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.763.5298&rep=rep1&type=pdf)." The Annals of Applied Statistics, 7(4), 1838-1865.
 
 
 ### Week 14: The Cutting Edge
