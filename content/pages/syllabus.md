@@ -80,7 +80,9 @@ This online syllabus has links to the readings that are online. Where possible, 
 
 ### Week 4: Online Experiments and Music Lab
 - Topics: 
-	- .
+	- Understand culture as a dynamic process rather than fixed.
+    - Understand culture as a partially stochastic (random) process.
+    - Understand the purpose of experiments and difference from other empirical methods.
 - Lab: Experiments
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
 	- Notebooks: `0_Online_Experiments.ipynb` and `1_Power_Calculation.ipynb`
@@ -141,6 +143,10 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Panek, Elliot, Connor Hollenbach, Jinjie Yang, and Tyler Rhodes. 2017. “[Growth and Inequality of Participation in Online Communities: A Longitudinal Analysis](https://dl.acm.org/citation.cfm?id=3097337).” Pp. 51:1–51:5 in Proceedings of the 8th International Conference on Social Media & Society, #SMSociety17. New York, NY, USA: ACM.
 
 ### Week 7: From Data to Conclusions: Validity and Generalizability
+- Topics:
+    - Understand sampling, populations, and sample frames.
+    - Understand sources of bias in sampling.
+    - Understand how valid methods can be used to make bad inferences.
 - Lab: Student data
 	- Repository: [https://github.com/UM-CSS/Drawing-Conclusions](https://github.com/UM-CSS/Drawing-Conclusions)
 	- Notebook: `0_Drawing_Conclusions.ipynb`
@@ -193,6 +199,10 @@ This online syllabus has links to the readings that are online. Where possible, 
 
 
 ### Week 10: Networks
+- Topics:
+    - Understand networks, nodes, and edges.
+    - Identify social processes that can be represented as networks.
+    - Understand network summary statistics such as centrality.
 - Lab: Networks
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Networks](https://github.com/UM-CSS/CSSLabs-Networks)
 	- Notebooks: `0_Networks.ipynb` and `1_Network_Structure.ipynb`
@@ -205,6 +215,10 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Breiger, R. L. (1974). "[The duality of persons and groups](http://www.uvm.edu/~pdodds/research/papers/others/1974/breiger1974a.pdf)." Social forces, 53(2), 181-190.
 
 ### Week 11: Using Networks for Social Science
+- Topics:
+    - Understand social network structure as social capital.
+    - Understand the small world problem and its resolution.
+    - Understand how different social processes generate different network structures.
 - Lab: Networks
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Networks](https://github.com/UM-CSS/CSSLabs-Networks)
 	- Notebook: `2_Social_Rank_and_Hierarchy.ipynb`
@@ -268,6 +282,10 @@ This online syllabus has links to the readings that are online. Where possible, 
 
 
 ### Week 14: The Cutting Edge
+- Topics:
+    - Civic data.
+    - Geographic data and mapping.
+    - Quantifying interaction strength across geographic boundaries.
 - Lab: 
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Extra](https://github.com/UM-CSS/CSSLabs-Extra)
 	- Notebook: `0_Taxi.ipynb`
