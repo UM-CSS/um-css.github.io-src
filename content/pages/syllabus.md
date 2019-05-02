@@ -31,7 +31,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Introduction to python
 - Lab: Intro and Installation: Python, Jupyter Notebooks
 	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
-	- Notebook: `0_Intro_to_python_text.ipynb`
+	- Notebook: [`0_Intro_to_python_text.ipynb`](https://github.com/UM-CSS/CSSLabs-NLP/blob/master/0_Intro_to_python_text.ipynb)
 - Readings
 	- Required 
 		- Lazer, D., Pentland, A. S., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., ... & Jebara, T. (2009). [Life in the network: the coming age of computational social science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/). Science (New York, NY), 323(5915), 721. 
@@ -44,7 +44,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Gender and social categories in dating
 - Lab: Word Frequencies
 	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
-	- Notebook: `2_Word_frequencies.ipynb`
+	- Notebook: [`2_Word_frequencies.ipynb`](https://github.com/UM-CSS/CSSLabs-NLP/blob/master/0_Intro_to_python_text.ipynb)
 - Readings
 	- Required 
 		- Coupland, J. (2000). [Past the ‘perfect kind of age’? Styling selves and relationships in over‐50s dating advertisements](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-2466.2000.tb02850.x). Journal of Communication, 50(3), 9-30. 
@@ -64,7 +64,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Topic modeling and other advanced text analysis methods
 - Lab: Topic Modeling
 	- Repository: [https://github.com/UM-CSS/CSSLabs-NLP](https://github.com/UM-CSS/CSSLabs-NLP)
-	- Notebook: `3_Topic_modeling.ipynb`
+	- Notebook: [`3_Topic_modeling.ipynb`](https://github.com/UM-CSS/CSSLabs-NLP/blob/master/3_Topic_modeling.ipynb)
 - Readings
 	- Required 
 		- Pepin, Joanna. 2015. “[Online Dating Choices, Constrained](https://contexts.org/articles/online-dating-choices-constrained).” Contexts 14(4):7. (one page) 
@@ -85,7 +85,7 @@ This online syllabus has links to the readings that are online. Where possible, 
     - Understand the purpose of experiments and difference from other empirical methods.
 - Lab: Experiments
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
-	- Notebooks: `0_Online_Experiments.ipynb` and `1_Power_Calculation.ipynb`
+	- Notebooks: [`0_Online_Experiments.ipynb`](https://github.com/UM-CSS/CSSLabs-Experiments/blob/master/0_Online_Experiments.ipynb) and [`1_Power_Calculation.ipynb`](https://github.com/UM-CSS/CSSLabs-Experiments/blob/master/1_Power_Calculation.ipynb)
 - Readings
 	- Required 
 		- Ko, Allen, Mou, Merry, and Matias, J. Nathan. 2016. “[The Obligation To Experiment](https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9).” MIT Media Lab, Medium.  
@@ -106,7 +106,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Measurement of social norms and interaction style online
 - Lab: Community Dynamics
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Community-Dynamics](https://github.com/UM-CSS/CSSLabs-Community-Dynamics)
-	- Notebooks: `0_Intro_Reddit_Data.ipynb`
+	- Notebooks: [`0_Intro_Reddit_Data.ipynb`](https://github.com/UM-CSS/CSSLabs-Community-Dynamics/blob/master/0_Intro_Reddit_Data.ipynb)
 - Readings
 	- Required 
 		- Voigt, Rob, Nicholas P. Camp, Vinodkumar Prabhakaran, William L. Hamilton, Rebecca C. Hetey, Camilla M. Griffiths, David Jurgens, Dan Jurafsky, and Jennifer L. Eberhardt. 2017. “[Language from Police Body Camera Footage Shows Racial Disparities in Officer Respect](https://europepmc.org/articles/pmc5488942).” Proceedings of the National Academy of Sciences 114(25):6521–26.  
@@ -128,7 +128,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Heterogenous treatment effects: not everyone responds the same way
 - Lab: Community Dynamics
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Community-Dynamics](https://github.com/UM-CSS/CSSLabs-Community-Dynamics)
-	- Notebooks: `1_Evolution_of_Community_Norms.ipynb` and `2_Other_shocks_to_communities.ipynb`
+	- Notebooks: [`1_Evolution_of_Community_Norms.ipynb`](https://github.com/UM-CSS/CSSLabs-Community-Dynamics/blob/master/1_Evolution_of_Community_Norms.ipynb) and [`2_Other_shocks_to_communities.ipynb`](https://github.com/UM-CSS/CSSLabs-Community-Dynamics/blob/master/2_Other_shocks_to_communities.ipynb)
 - Readings
 	- Required 
 		- Chandrasekharan, Eshwar, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. 2017. “[You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech](https://www.cc.gatech.edu/~eshwar3/uploads/3/8/0/4/38043045/cscw2018-chandrasekharan-reddit2015ban.pdf).” Proceedings of the ACM on Human-Computer Interaction 1(CSCW):1–22. 
@@ -149,7 +149,7 @@ This online syllabus has links to the readings that are online. Where possible, 
     - Understand how valid methods can be used to make bad inferences.
 - Lab: Student data
 	- Repository: [https://github.com/UM-CSS/Drawing-Conclusions](https://github.com/UM-CSS/Drawing-Conclusions)
-	- Notebook: `0_Drawing_Conclusions.ipynb`
+	- Notebook: [`0_Drawing_Conclusions.ipynb`](https://github.com/UM-CSS/Drawing-Conclusions/blob/master/0_Drawing_Conclusions.ipynb)
 - Readings
 	- Required 
 		- Crawford, Kate. 2013. “[The Hidden Biases in Big Data](https://hbr.org/2013/04/the-hidden-biases-in-big-data).” Harvard Business Review, April 1.  
@@ -170,7 +170,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- See results of class experiment in lab sections
 - Lab: Experiments
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Experiments](https://github.com/UM-CSS/CSSLabs-Experiments)
-	- Notebooks: `0_Online_Experiments.ipynb` and `1_Power_Calculation.ipynb`
+	- Notebooks: [`0_Online_Experiments.ipynb`](https://github.com/UM-CSS/CSSLabs-Experiments/blob/master/0_Online_Experiments.ipynb) and [`1_Power_Calculation.ipynb`](https://github.com/UM-CSS/CSSLabs-Experiments/blob/master/1_Power_Calculation.ipynb)
 
 ### Week 9: Algorithms and Society
 - Topics: 
@@ -178,7 +178,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Real world effects and unintended concequences of algorithmic systems
 - Lab: Algorithms and Society
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Algorithms-Society](https://github.com/UM-CSS/CSSLabs-Algorithms-Society)
-	- Notebook: `0_potholes.ipynb`
+	- Notebook: [`0_potholes.ipynb`](https://github.com/UM-CSS/CSSLabs-Algorithms-Society/blob/master/0_potholes.ipynb)
 - Readings
 	- Required 
 		- Tufekci, Zeynep. 2018. “[Facebook’s Surveillance Machine](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html) .” New York Times. 
@@ -205,7 +205,7 @@ This online syllabus has links to the readings that are online. Where possible, 
     - Understand network summary statistics such as centrality.
 - Lab: Networks
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Networks](https://github.com/UM-CSS/CSSLabs-Networks)
-	- Notebooks: `0_Networks.ipynb` and `1_Network_Structure.ipynb`
+	- Notebooks: [`0_Networks.ipynb`](https://github.com/UM-CSS/CSSLabs-Networks/blob/master/0_Networks.ipynb) and [`1_Network_Structure.ipynb`](https://github.com/UM-CSS/CSSLabs-Networks/blob/master/1_Network_Structure.ipynb)
 - Readings
 	- Required 
 		- Watts, Duncan. 1999. [*Small Worlds*](http://blacky.terra32.net/trusso/CorsoTeoriaAvanzataReti/info4/altrecose/DuncanJWattsSigma.pdf). Chapter 1. Princeton University Press: 3-8.  
@@ -221,7 +221,7 @@ This online syllabus has links to the readings that are online. Where possible, 
     - Understand how different social processes generate different network structures.
 - Lab: Networks
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Networks](https://github.com/UM-CSS/CSSLabs-Networks)
-	- Notebook: `2_Social_Rank_and_Hierarchy.ipynb`
+	- Notebook: [`2_Social_Rank_and_Hierarchy.ipynb`](https://github.com/UM-CSS/CSSLabs-Networks/blob/master/2_Social_Rank_and_Hierarchy.ipynb)
 - Readings
 	- Required 
 		- Granovetter, Mark S. 1973. “[The Strength of Weak Ties](http://bkp.pirna.com.ar/files/pirna/ARS1/ARS1-04-Granovetter-1973-The-strength-of-weak-ties.pdf).” American Journal of Sociology 78(6): 1360-1380.  
@@ -243,7 +243,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Simulating social processes and Agent Based Modeling
 - Lab: 
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Contagion](https://github.com/UM-CSS/CSSLabs-Contagion)
-	- Notebook: `0_ABM.ipynb`
+	- Notebook: [`0_ABM.ipynb`](https://github.com/UM-CSS/CSSLabs-Contagion/blob/master/0_ABM.ipynb)
 - Readings
 	- Required 
 		- Hart, Vi, and Case, Nicky. 2014. “[The Parable of the Polygons](https://ncase.me/polygons/).” 
@@ -263,7 +263,7 @@ This online syllabus has links to the readings that are online. Where possible, 
 	- Collective action and online social movements
 - Lab: 
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Contagion](https://github.com/UM-CSS/CSSLabs-Contagion)
-	- Notebook: `1_metoo.ipynb`
+	- Notebook: [`1_metoo.ipynb`](https://github.com/UM-CSS/CSSLabs-Contagion/blob/master/1_metoo.ipynb)
 - Readings
 	- Required 
 		- . 2015. “[The Social Network Illusion that Tricks Your Mind](https://www.technologyreview.com/s/538866/the-social-network-illusion-that-tricks-your-mind/).” MIT Technology Review. 
@@ -288,7 +288,7 @@ This online syllabus has links to the readings that are online. Where possible, 
     - Quantifying interaction strength across geographic boundaries.
 - Lab: 
 	- Repository: [https://github.com/UM-CSS/CSSLabs-Extra](https://github.com/UM-CSS/CSSLabs-Extra)
-	- Notebook: `0_Taxi.ipynb`
+	- Notebook: [`0_Taxi.ipynb`](https://github.com/UM-CSS/CSSLabs-Extra/blob/master/0_Taxi.ipynb)
 - Readings
 	- Required 
 		- Jean, Neal, Marshall Burke, Michael Xie, W. Matthew Davis, David B. Lobell, and Stefano Ermon. 2016. “[Combining Satellite Imagery and Machine Learning to Predict Poverty](http://science.sciencemag.org/content/353/6301/790.short).” Science 353(6301):790–94. 
