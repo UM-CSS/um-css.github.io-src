@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Jeff Lockhart'
-SITENAME = 'SOC 295: Computational Social Science'
+SITENAME = 'Computational Social Science'
 SITEURL = ''
-SITESUBTITLE = 'SOC 295: Computational Social Science'
+SITESUBTITLE = 'A semester long course in Computational Social Science'
 SITELOGO = '/images/logo.png'
 
 PATH = 'content'

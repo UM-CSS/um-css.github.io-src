@@ -4,23 +4,12 @@ Summary: Course syllabus
 
 ## Course Description
 
+Due to the growth in electronic sources such as cell phones, Facebook, Twitter, and other online platforms, researches now have enormous amounts of data about every aspect of our lives – from what we buy, to where we go, to who we know, to what we believe. This has led to a revolution in social science, as we are able to measure human behavior with precision largely thought impossible just a decade ago. Computational Social Science is an exciting and emerging field that sits at the intersection of computer science, statistics, and social science. This course provides a hands-on, non-technical introduction to the methods and ideas of Computational Social Science. 
 
-Due to the growth in electronic sources such as cell phones, Facebook, Twitter, and other online platforms, researches now have enormous amounts of data about every aspect of our lives – from what we buy, to where we go, to who we know, to what we believe. This has led to a revolution in social science, as we are able to measure human behavior with precision largely thought impossible just a decade ago. Computational Social Science is an exciting and emerging field that sits at the intersection of computer science, statistics, and social science. This course provides a hands-on, non-technical introduction to the methods and ideas of Computational Social Science. We will discuss how new online data sources and the methods that are being used to analyze them can shed new light on old social science questions, and also ask brand new questions. We will also explore some of the ethical and privacy challenges of living in a world where big data and algorithmic decision-making have become more commonplace. Each week, students will have the opportunity to try their hand at analyzing big data from sources ranging from online dating profiles to New York City taxicabs to #metoo Tweets and other sources. Note that this course is a 4-credit course that includes a weekly, 2-hour lab component in addition to lecture and discussion. 
+We will discuss how new online data sources and the methods that are being used to analyze them can shed new light on old social science questions, and also ask brand new questions. We will also explore some of the ethical and privacy challenges of living in a world where big data and algorithmic decision-making have become more commonplace. Each week, students will have the opportunity to try their hand at analyzing big data from sources ranging from online dating profiles to New York City taxicabs to #metoo Tweets and other sources. Note that this course is a 4-credit course that includes a weekly, 2-hour lab component in addition to lecture and discussion. 
 
 ### Note on Readings
 This online syllabus has links to the readings that are online. Where possible, we link to open access copies instead of paywalled ones. Students in the course also have access to a folder on Canvas with PDFs of all readings. 
-
-### Assignments and Grading
-- Exams
-	- Midterm 
-	- Final
-- Labs
-	- Students will complete a lab each week. We will work on labs together in section, but students are expected to complete them at home if they do not finish in section.
-	- Read the directions in each lab carefully as you run through the code. 
-	- Answer the short answer questions and the reflection questions in the lab. Reflection questions at the end of each lab draw on ideas in the readings and lectures.
-	- Save the completed notebook. Export the complete notebook, with your answers in it, as a PDF file. Upload that file to Canvas for grading. 
-- Participation
-	- Participation in lecture and lab sections counts toward students' final grade. 
 
 ## Course Schedule
 
@@ -156,6 +145,8 @@ This online syllabus has links to the readings that are online. Where possible, 
 		- Stephens, Alexis. 2014. “[Big Data Has Potential to Both Hurt and Help Disadvantaged Communities](https://nextcity.org/daily/entry/big-data-good-bad-help-disadvantaged-communities).” Next City. Retrieved September 29, 2018. 
 		- Bower, Bruce. 2018. “[‘Replication crisis’ spurs reforms in how science studies are done](https://www.sciencenews.org/blog/science-public/replication-crisis-psychology-science-studies-statistics).”  
 		- Lazer, D. M., Kennedy, R., King, G., & Vespignani, A. (2014). "[The parable of Google Flu: Traps in big data analysis](http://www.davidlazer.com/sites/default/files/The%20Parable%20of%20Google%20Flu%20(WP-Final).pdf)." Science 343(6176):1203-1205
+		- Kasy, Maximilian. “[No Data in the Void: Values and Distributional Conflicts in Empirical Policy Research and Artificial Intelligence](https://econfip.org/policy-brief/no-data-in-the-void-values-and-distributional-conflicts-in-empirical-policy-research-and-artificial-intelligence).” Research Brief, August 2019.
+
 	- Required for graduate students 
 		- Goel, S. and Salganik, M.J. (2010) "[Assessing respondent-driven sampling](https://www.princeton.edu/~mjs3/goel_salganik10.pdf)." PNAS. 
 		- Tyler J. VanderWeele and Whitney R. Robinson. 2014. "[On causal interpretation of race in regressions adjusting for confounding and mediating variables](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4125322/)."
@@ -300,4 +291,15 @@ This online syllabus has links to the readings that are online. Where possible, 
 ### Week 15: Review
 
 
+## Assignments and Grading
+- Exams
+	- Midterm 
+	- Final
+- Labs
+	- Students will complete a lab each week. We will work on labs together in section, but students are expected to complete them at home if they do not finish in section.
+	- Read the directions in each lab carefully as you run through the code. 
+	- Answer the short answer questions and the reflection questions in the lab. Reflection questions at the end of each lab draw on ideas in the readings and lectures.
+	- Save the completed notebook. Export the complete notebook, with your answers in it, as a PDF file. Upload that file to Canvas for grading. 
+- Participation
+	- Participation in lecture and lab sections counts toward students' final grade. 
 
